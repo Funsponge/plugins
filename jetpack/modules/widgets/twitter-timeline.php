@@ -49,7 +49,7 @@ class Jetpack_Twitter_Timeline_Widget extends WP_Widget {
 		if ( $instance['title'] )
 			echo $args['before_title'] . apply_filters( 'widget_title', $instance['title'] ) . $args['after_title'];
 
-		$data_attribs = array( 'widget-id', 'theme', 'link-color', 'border-color', 'chrome','tweet-limit' );
+		$data_attribs = array( 'widget-id', 'theme', 'link-color', 'border-color', 'chrome' );
 		$attribs      = array( 'width', 'height', 'lang' );
 
 		// Start tag output
@@ -94,8 +94,8 @@ class Jetpack_Twitter_Timeline_Widget extends WP_Widget {
 		$instance['title']   = sanitize_text_field( $new_instance['title'] );
 		$instance['width']   = (int) $new_instance['width'];
 		$instance['height']  = (int) $new_instance['height'];
-		$instance['width']   = ( 0 === $instance['width'] )  ? $instance['width']  : 225;
-		$instance['height']  = ( 0 === $instance['height'] ) ? $instance['height'] : 400;
+		$instance['width']   = ( 0 !== (int) $instance['width'] )  ? (int) $instance['width']  : 225;
+		$instance['height']  = ( 0 !== (int) $instance['height'] ) ? (int) $instance['height'] : 400;
 
 		// If they entered something that might be a full URL, try to parse it out
 		if ( is_string( $new_instance['widget-id'] ) ) {
@@ -106,8 +106,6 @@ class Jetpack_Twitter_Timeline_Widget extends WP_Widget {
 
 		$instance['widget-id'] = sanitize_text_field( $new_instance['widget-id'] );
 		$instance['widget-id'] = is_numeric( $instance['widget-id'] ) ? $instance['widget-id'] : '';
-		$instance['tweet-limit'] = sanitize_text_field( $new_instance['tweet-limit'] );
-		$instance['tweet-limit'] = is_numeric( $instance['tweet-limit'] ) ? $instance['tweet-limit'] : '';
 
 		foreach ( array( 'link-color', 'border-color' ) as $color ) {
 			$clean = preg_replace( $non_hex_regex, '', sanitize_text_field( $new_instance[$color] ) );
@@ -149,7 +147,6 @@ class Jetpack_Twitter_Timeline_Widget extends WP_Widget {
 			'border-color' => '#e8e8e8',
 			'theme'        => 'light',
 			'chrome'       => array(),
-			'tweet-limit'  => '3',
 		);
 
 		$instance = wp_parse_args( (array) $instance, $defaults );
@@ -211,11 +208,6 @@ class Jetpack_Twitter_Timeline_Widget extends WP_Widget {
 				<option value="light"<?php selected( $instance['theme'], 'light' ); ?>><?php esc_html_e( 'Light', 'jetpack' ); ?></option>
 				<option value="dark"<?php selected( $instance['theme'], 'dark' ); ?>><?php esc_html_e( 'Dark', 'jetpack' ); ?></option>
 			</select>
-		</p>
-		
-		<p> 
-			<label for="<?php echo $this->get_field_id( 'tweet-limit' ); ?>"><?php _e( 'Tweet Limit (1-20):', 'jetpack' ); ?></label>
-			<input class="widefat" id="<?php echo $this->get_field_id( 'tweet-limit' ); ?>" name="<?php echo $this->get_field_name( 'tweet-limit' ); ?>" type="text" value="<?php echo esc_attr( $instance['tweet-limit'] ); ?>" />
 		</p>
 	<?php
 	}
