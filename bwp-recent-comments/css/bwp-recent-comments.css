@@ -1,16 +1,15 @@
 .recent-comment {
 	list-style-type: none;
-	margin-bottom: 0px;
 	/*ie fix*/ zoom: 1;
 }
 
 .recent-comment:after { content: "."; display: block; height: 0; font-size: 0; line-height: 0; clear: both; visibility: hidden; }
 
-.recent-comment  .recent-comment-avatar{
+.recent-comment .recent-comment-avatar {
+	display: block;
 	float: left;
-	display:block;
-/* 	left: 65px; */
-	margin: 0px;
+	padding: 4px 15px 26px 0px;
+	width: 50px;
 }
 
 .post-link {
@@ -20,11 +19,10 @@
 	margin-top: 2px;
 	font-style: italic;
 }
-
 .recent-comment .avatar {
-	border:none;
-	float:left;
-	margin:4px 15px 30px 0px;
+	padding: 0px;
+	border: none;
+	margin: 0;
 }
 
 .recent-comment .icon-comment {
@@ -33,7 +31,7 @@
 
 .recent-comment-single {
 	display: block;
-/* 	margin-left: 70px; */
+	margin-left: 50px;
 }
 
 .recent-comment-tb .recent-comment-single {
@@ -49,10 +47,10 @@
 .recent-comment-author {
 	font-size: 0.9em;
 	font-weight: bold;
+	font-style: italic;
 	background: url("../images/icon_comment.png") no-repeat right center;
 	padding-right: 20px;
 	overflow: hidden;
-	font-style: italic;
 }
 
 .recent-comment-text {
@@ -64,7 +62,4 @@
 	list-style-type: none;
 	list-style-position: inside;
 	text-align: right;
-}
-.bwp-rc-ulist { 
-	margin-bottom: -30px !important;
 }
