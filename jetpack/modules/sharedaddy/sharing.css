@@ -17,7 +17,6 @@ div.sharedaddy,
 div.sharedaddy,
 div.sharedaddy div {
 	background-color: #000;
-	height: 32px;
 }
 
 div.sharedaddy h3,
@@ -127,7 +126,6 @@ div.sharedaddy .sd-content ul {
 }
 
 div.sharedaddy .sd-content li {
-	margin: 5px 10px 5px 0 !important;
 	display: inline;
 }
 
@@ -145,7 +143,7 @@ div.sharedaddy .sd-content li {
 /* Base Button .sd-button */
 
 div.sharedaddy a.sd-button {
-	margin: 0 0 5px 0;
+	margin: 0;
 	display: inline-block;
 	text-decoration: none;
 	line-height: 1;
