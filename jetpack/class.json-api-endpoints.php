@@ -880,6 +880,7 @@ EOPHP;
 			$name        = $author->comment_author;
 			$URL         = $author->comment_author_url;
 			$profile_URL = 'http://en.gravatar.com/' . md5( strtolower( trim( $email ) ) );
+			$nice        = '';
 		} else {
 			if ( isset( $author->post_author ) ) {
 				if ( 0 == $author->post_author )
@@ -902,6 +903,7 @@ EOPHP;
 			$email = $user->user_email;
 			$name  = $user->display_name;
 			$URL   = $user->user_url;
+			$nice  = $user->user_nicename;
 			if ( defined( 'IS_WPCOM' ) && IS_WPCOM ) {
 				$profile_URL = "http://en.gravatar.com/{$user->user_login}";
 			} else {
@@ -917,6 +919,7 @@ EOPHP;
 			'ID'          => (int) $ID,
 			'email'       => $email, // (string|bool)
 			'name'        => (string) $name,
+			'nice_name'   => (string) $nice,
 			'URL'         => (string) esc_url_raw( $URL ),
 			'avatar_URL'  => (string) esc_url_raw( $avatar_URL ),
 			'profile_URL' => (string) esc_url_raw( $profile_URL ),
@@ -2230,7 +2233,11 @@ class WPCOM_JSON_API_Update_Taxonomy_Endpoint extends WPCOM_JSON_API_Taxonomy_En
 			)
 		);
 
+		if ( is_wp_error( $data ) )
+			return $data;
+
 		$taxonomy = get_term_by( 'id', $data['term_id'], $taxonomy_type );
+
 		$return   = $this->get_taxonomy( $taxonomy->slug, $taxonomy_type, $args['context'] );
 		if ( !$return || is_wp_error( $return ) ) {
 			return $return;
