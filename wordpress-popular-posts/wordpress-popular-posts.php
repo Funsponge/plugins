@@ -3,7 +3,7 @@
 Plugin Name: Wordpress Popular Posts
 Plugin URI: http://wordpress.org/extend/plugins/wordpress-popular-posts
 Description: Showcases your most popular posts to your visitors on your blog's sidebar. Use Wordpress Popular Posts as a widget or place it anywhere on your theme using <strong>&lt;?php wpp_get_mostpopular(); ?&gt;</strong>
-Version: 2.3.6
+Version: 2.3.7
 Author: H&eacute;ctor Cabrera
 Author URI: http://cabrerahector.com
 License: GPL2
@@ -28,7 +28,7 @@ if ( !class_exists('WordpressPopularPosts') ) {
 
 	class WordpressPopularPosts extends WP_Widget {
 		// plugin global variables
-		var $version = "2.3.6";
+		var $version = "2.3.7";
 		var $qTrans = false;
 		var $postRating = false;
 		var $thumb = false;
@@ -929,7 +929,7 @@ if ( !class_exists('WordpressPopularPosts') ) {
 							 JOIN $wpdb->term_taxonomy AS x ON x.term_taxonomy_id = r.term_taxonomy_id
 							 JOIN $wpdb->terms AS t ON t.term_id = x.term_id
 						WHERE x.taxonomy = 'category' AND t.term_id IN($in_cats)
-						)) OR (p.post_type = 'post' AND p.ID NOT IN (
+						) AND p.ID NOT IN (
 						SELECT object_id
 						FROM $wpdb->term_relationships AS r
 							 JOIN $wpdb->term_taxonomy AS x ON x.term_taxonomy_id = r.term_taxonomy_id
