@@ -1,0 +1,674 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ditty Twitter Ticker v1.1.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-06-18 16:02:07+0000\n"
+"Last-Translator: admin <joe@metaphorcreations.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/activate.php:59
+#: includes/class-tgm-plugin-activation.php:164
+#@ ditty-twitter-ticker
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+#: includes/activate.php:60
+#: includes/class-tgm-plugin-activation.php:165
+#@ ditty-twitter-ticker
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: includes/activate.php:61
+#: includes/class-tgm-plugin-activation.php:166
+#, php-format
+#@ ditty-twitter-ticker
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#: includes/activate.php:62
+#@ ditty-twitter-ticker
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#: includes/activate.php:63
+#: includes/class-tgm-plugin-activation.php:168
+#, php-format
+#@ ditty-twitter-ticker
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "This theme requires the following plugin: %1$s."
+msgstr[1] "This theme requires the following plugins: %1$s."
+
+#: includes/activate.php:64
+#: includes/class-tgm-plugin-activation.php:169
+#, php-format
+#@ ditty-twitter-ticker
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "This theme recommends the following plugin: %1$s."
+msgstr[1] "This theme recommends the following plugins: %1$s."
+
+#: includes/activate.php:65
+#: includes/class-tgm-plugin-activation.php:170
+#, php-format
+#@ ditty-twitter-ticker
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgstr[1] "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+
+#: includes/activate.php:66
+#: includes/class-tgm-plugin-activation.php:171
+#, php-format
+#@ ditty-twitter-ticker
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "The following required plugin is currently inactive: %1$s."
+msgstr[1] "The following required plugins are currently inactive: %1$s."
+
+#: includes/activate.php:67
+#: includes/class-tgm-plugin-activation.php:172
+#, php-format
+#@ ditty-twitter-ticker
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "The following recommended plugin is currently inactive: %1$s."
+msgstr[1] "The following recommended plugins are currently inactive: %1$s."
+
+#: includes/activate.php:68
+#: includes/class-tgm-plugin-activation.php:173
+#, php-format
+#@ ditty-twitter-ticker
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgstr[1] "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+
+#: includes/activate.php:69
+#: includes/class-tgm-plugin-activation.php:174
+#, php-format
+#@ ditty-twitter-ticker
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[1] "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+
+#: includes/activate.php:70
+#: includes/class-tgm-plugin-activation.php:175
+#, php-format
+#@ ditty-twitter-ticker
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgstr[1] "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+
+#: includes/activate.php:71
+#: includes/class-tgm-plugin-activation.php:176
+#@ ditty-twitter-ticker
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin installing plugin"
+msgstr[1] "Begin installing plugins"
+
+#: includes/activate.php:72
+#: includes/class-tgm-plugin-activation.php:177
+#@ ditty-twitter-ticker
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activate installed plugin"
+msgstr[1] "Activate installed plugins"
+
+#: includes/activate.php:73
+#: includes/class-tgm-plugin-activation.php:178
+#: includes/class-tgm-plugin-activation.php:490
+#@ ditty-twitter-ticker
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+#: includes/activate.php:74
+#: includes/class-tgm-plugin-activation.php:179
+#: includes/class-tgm-plugin-activation.php:1846
+#@ ditty-twitter-ticker
+msgid "Plugin activated successfully."
+msgstr "Plugin activated successfully."
+
+#: includes/activate.php:75
+#, php-format
+#@ ditty-twitter-ticker
+msgid "All plugins installed and activated successfully. %s"
+msgstr "All plugins installed and activated successfully. %s"
+
+#: includes/class-tgm-plugin-activation.php:167
+#@ ditty-twitter-ticker
+msgid "Something went wrong."
+msgstr "Something went wrong."
+
+#: includes/class-tgm-plugin-activation.php:180
+#, php-format
+#@ ditty-twitter-ticker
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+#: includes/class-tgm-plugin-activation.php:517
+#: includes/class-tgm-plugin-activation.php:2058
+#@ ditty-twitter-ticker
+msgid "Return to the Dashboard"
+msgstr "Return to the Dashboard"
+
+#: includes/class-tgm-plugin-activation.php:545
+#, php-format
+#@ ditty-twitter-ticker
+msgid "The following plugin was activated successfully: %s."
+msgstr "The following plugin was activated successfully: %s."
+
+#: includes/class-tgm-plugin-activation.php:704
+#@ ditty-twitter-ticker
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#: includes/class-tgm-plugin-activation.php:1091
+#@ ditty-twitter-ticker
+msgid "External Link"
+msgstr "External Link"
+
+#: includes/class-tgm-plugin-activation.php:1096
+#@ ditty-twitter-ticker
+msgid "Private Repository"
+msgstr "Private Repository"
+
+#: includes/class-tgm-plugin-activation.php:1099
+#@ ditty-twitter-ticker
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: includes/class-tgm-plugin-activation.php:1103
+#@ ditty-twitter-ticker
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: includes/class-tgm-plugin-activation.php:1106
+#@ ditty-twitter-ticker
+msgid "Required"
+msgstr "Required"
+
+#: includes/class-tgm-plugin-activation.php:1106
+#@ ditty-twitter-ticker
+msgid "Recommended"
+msgstr "Recommended"
+
+#: includes/class-tgm-plugin-activation.php:1109
+#@ ditty-twitter-ticker
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: includes/class-tgm-plugin-activation.php:1111
+#@ ditty-twitter-ticker
+msgid "Installed But Not Activated"
+msgstr "Installed But Not Activated"
+
+#: includes/class-tgm-plugin-activation.php:1281
+#, php-format
+#@ ditty-twitter-ticker
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+
+#: includes/class-tgm-plugin-activation.php:1297
+#@ ditty-twitter-ticker
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/class-tgm-plugin-activation.php:1298
+#@ ditty-twitter-ticker
+msgid "Source"
+msgstr "Source"
+
+#: includes/class-tgm-plugin-activation.php:1299
+#@ ditty-twitter-ticker
+msgid "Type"
+msgstr "Type"
+
+#: includes/class-tgm-plugin-activation.php:1300
+#@ ditty-twitter-ticker
+msgid "Status"
+msgstr "Status"
+
+#: includes/class-tgm-plugin-activation.php:1318
+#@ ditty-twitter-ticker
+msgid "Install"
+msgstr "Install"
+
+#: includes/class-tgm-plugin-activation.php:1319
+#@ ditty-twitter-ticker
+msgid "Activate"
+msgstr "Activate"
+
+#: includes/class-tgm-plugin-activation.php:1544
+#@ ditty-twitter-ticker
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "The following plugin was activated successfully:"
+msgstr[1] "The following plugins were activated successfully:"
+
+#: includes/class-tgm-plugin-activation.php:1829
+#@ ditty-twitter-ticker
+msgid "Install package not available."
+msgstr "Install package not available."
+
+#: includes/class-tgm-plugin-activation.php:1830
+#, php-format
+#@ ditty-twitter-ticker
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+
+#: includes/class-tgm-plugin-activation.php:1831
+#@ ditty-twitter-ticker
+msgid "Unpacking the package&#8230;"
+msgstr "Unpacking the package&#8230;"
+
+#: includes/class-tgm-plugin-activation.php:1832
+#@ ditty-twitter-ticker
+msgid "Installing the plugin&#8230;"
+msgstr "Installing the plugin&#8230;"
+
+#: includes/class-tgm-plugin-activation.php:1833
+#@ ditty-twitter-ticker
+msgid "Plugin install failed."
+msgstr "Plugin install failed."
+
+#: includes/class-tgm-plugin-activation.php:1834
+#@ ditty-twitter-ticker
+msgid "Plugin installed successfully."
+msgstr "Plugin installed successfully."
+
+#: includes/class-tgm-plugin-activation.php:1845
+#@ ditty-twitter-ticker
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#: includes/class-tgm-plugin-activation.php:1955
+#@ ditty-twitter-ticker
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+
+#: includes/class-tgm-plugin-activation.php:1956
+#, php-format
+#@ ditty-twitter-ticker
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: includes/class-tgm-plugin-activation.php:1956
+#: includes/class-tgm-plugin-activation.php:1965
+#@ ditty-twitter-ticker
+msgid "Show Details"
+msgstr "Show Details"
+
+#: includes/class-tgm-plugin-activation.php:1956
+#: includes/class-tgm-plugin-activation.php:1965
+#@ ditty-twitter-ticker
+msgid "Hide Details"
+msgstr "Hide Details"
+
+#: includes/class-tgm-plugin-activation.php:1957
+#@ ditty-twitter-ticker
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+#: includes/class-tgm-plugin-activation.php:1958
+#, php-format
+#@ ditty-twitter-ticker
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: includes/class-tgm-plugin-activation.php:1962
+#@ ditty-twitter-ticker
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "The installation process is starting. This process may take a while on some hosts, so please be patient."
+
+#: includes/class-tgm-plugin-activation.php:1963
+#, php-format
+#@ ditty-twitter-ticker
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+#: includes/class-tgm-plugin-activation.php:1964
+#, php-format
+#@ ditty-twitter-ticker
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#: includes/class-tgm-plugin-activation.php:1965
+#, php-format
+#@ ditty-twitter-ticker
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#: includes/class-tgm-plugin-activation.php:1966
+#@ ditty-twitter-ticker
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+#: includes/class-tgm-plugin-activation.php:1967
+#, php-format
+#@ ditty-twitter-ticker
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: includes/functions.php:19
+#@ ditty-twitter-ticker
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/functions.php:196
+#: includes/meta-boxes.php:179
+#: includes/meta-boxes.php:182
+#@ ditty-twitter-ticker
+msgid "Reply"
+msgstr "Reply"
+
+#: includes/functions.php:199
+#: includes/meta-boxes.php:183
+#@ ditty-twitter-ticker
+msgid "Retweet"
+msgstr "Retweet"
+
+#: includes/functions.php:202
+#: includes/meta-boxes.php:184
+#@ ditty-twitter-ticker
+msgid "Favorite"
+msgstr "Favorite"
+
+#: includes/meta-boxes.php:161
+#@ ditty-twitter-ticker
+msgid "ago"
+msgstr "ago"
+
+#: includes/meta-boxes.php:28
+#@ ditty-twitter-ticker
+msgid "Feed type"
+msgstr "Feed type"
+
+#: includes/meta-boxes.php:30
+#@ ditty-twitter-ticker
+msgid "User timeline"
+msgstr "User timeline"
+
+#: includes/meta-boxes.php:31
+#@ ditty-twitter-ticker
+msgid "Keyword search"
+msgstr "Keyword search"
+
+#: includes/meta-boxes.php:33
+#@ ditty-twitter-ticker
+msgid "Select the type of feed to display."
+msgstr "Select the type of feed to display."
+
+#: includes/meta-boxes.php:40
+#@ ditty-twitter-ticker
+msgid "Handles/keywords"
+msgstr "Handles/keywords"
+
+#: includes/meta-boxes.php:46
+#@ ditty-twitter-ticker
+msgid "Add an unlimited number of terms to display."
+msgstr "Add an unlimited number of terms to display."
+
+#: includes/meta-boxes.php:80
+#@ ditty-twitter-ticker
+msgid "User avatar"
+msgstr "User avatar"
+
+#: includes/meta-boxes.php:81
+#@ ditty-twitter-ticker
+msgid "Display the user's avatar."
+msgstr "Display the user's avatar."
+
+#: includes/meta-boxes.php:85
+#@ ditty-twitter-ticker
+msgid "Dimensions"
+msgstr "Dimensions"
+
+#: includes/meta-boxes.php:90
+#@ ditty-twitter-ticker
+msgid "Lock Left"
+msgstr "Lock Left"
+
+#: includes/meta-boxes.php:94
+#: includes/meta-boxes.php:122
+#@ ditty-twitter-ticker
+msgid "Link"
+msgstr "Link"
+
+#: includes/meta-boxes.php:99
+#: includes/meta-boxes.php:127
+#: includes/meta-boxes.php:143
+#: includes/meta-boxes.php:166
+#: includes/meta-boxes.php:192
+#@ ditty-twitter-ticker
+msgid "Inline"
+msgstr "Inline"
+
+#: includes/meta-boxes.php:100
+#: includes/meta-boxes.php:128
+#: includes/meta-boxes.php:144
+#: includes/meta-boxes.php:167
+#: includes/meta-boxes.php:193
+#@ ditty-twitter-ticker
+msgid "Block"
+msgstr "Block"
+
+#: includes/meta-boxes.php:112
+#@ ditty-twitter-ticker
+msgid "User name"
+msgstr "User name"
+
+#: includes/meta-boxes.php:114
+#@ ditty-twitter-ticker
+msgid "Display the user's name."
+msgstr "Display the user's name."
+
+#: includes/meta-boxes.php:118
+#@ ditty-twitter-ticker
+msgid "Handle"
+msgstr "Handle"
+
+#: includes/meta-boxes.php:140
+#@ ditty-twitter-ticker
+msgid "Tweet text"
+msgstr "Tweet text"
+
+#: includes/meta-boxes.php:141
+#@ ditty-twitter-ticker
+msgid "The main data of the tweet."
+msgstr "The main data of the tweet."
+
+#: includes/meta-boxes.php:154
+#@ ditty-twitter-ticker
+msgid "Tweet time"
+msgstr "Tweet time"
+
+#: includes/meta-boxes.php:155
+#@ ditty-twitter-ticker
+msgid "Show the tweet date & set the format."
+msgstr "Show the tweet date & set the format."
+
+#: includes/meta-boxes.php:160
+#@ ditty-twitter-ticker
+msgid "Format"
+msgstr "Format"
+
+#: includes/meta-boxes.php:180
+#@ ditty-twitter-ticker
+msgid "Tweet links"
+msgstr "Tweet links"
+
+#: includes/meta-boxes.php:186
+#@ ditty-twitter-ticker
+msgid "Select links to show along with each tweet."
+msgstr "Select links to show along with each tweet."
+
+#: includes/meta-boxes.php:205
+#@ ditty-twitter-ticker
+msgid "Tweet arrangement"
+msgstr "Tweet arrangement"
+
+#: includes/meta-boxes.php:206
+#@ ditty-twitter-ticker
+msgid "Set the tweet assets and order."
+msgstr "Set the tweet assets and order."
+
+#: includes/meta-boxes.php:224
+#@ ditty-twitter-ticker
+msgid "Twitter Ticker Data"
+msgstr "Twitter Ticker Data"
+
+#: includes/functions.php:218
+#@ ditty-twitter-ticker
+msgid "Twitter access not yet configured."
+msgstr "Twitter access not yet configured."
+
+#: includes/meta-boxes.php:53
+#@ ditty-twitter-ticker
+msgid "Feed options"
+msgstr "Feed options"
+
+#: includes/meta-boxes.php:55
+#@ ditty-twitter-ticker
+msgid "Limit"
+msgstr "Limit"
+
+#: includes/meta-boxes.php:56
+#@ ditty-twitter-ticker
+msgid "Limit the number of tweets to show and set additional options."
+msgstr "Limit the number of tweets to show and set additional options."
+
+#: includes/meta-boxes.php:60
+#@ ditty-twitter-ticker
+msgid "Hide retweets"
+msgstr "Hide retweets"
+
+#: includes/meta-boxes.php:64
+#@ ditty-twitter-ticker
+msgid "Hide replies"
+msgstr "Hide replies"
+
+#: includes/meta-boxes.php:68
+#@ ditty-twitter-ticker
+msgid "Even disbursement"
+msgstr "Even disbursement"
+
+#: includes/meta-boxes.php:113
+#@ ditty-twitter-ticker
+msgid "Name"
+msgstr "Name"
+
+#: includes/meta-boxes.php:217
+#, php-format
+#@ ditty-twitter-ticker
+msgid "<a href=\"%s\">Click here</a> to generate a pin and grant acces to Ditty Twitter Ticker."
+msgstr "<a href=\"%s\">Click here</a> to generate a pin and grant acces to Ditty Twitter Ticker."
+
+#: includes/notices.php:24
+#, php-format
+#@ ditty-twitter-ticker
+msgid "<a href=\"%s\"><strong>Click here</strong></a> to generate a pin and grant acces to <strong>Ditty Twitter Ticker</strong>."
+msgstr "<a href=\"%s\"><strong>Click here</strong></a> to generate a pin and grant acces to <strong>Ditty Twitter Ticker</strong>."
+
+#: includes/settings.php:54
+#@ ditty-twitter-ticker
+msgid "Access granted!"
+msgstr "Access granted!"
+
+#: includes/settings.php:66
+#@ ditty-twitter-ticker
+msgid "Access error"
+msgstr "Access error"
+
+#: includes/settings.php:78
+#@ ditty-twitter-ticker
+msgid "Generate pin from Twitter"
+msgstr "Generate pin from Twitter"
+
+#: includes/settings.php:83
+#@ ditty-twitter-ticker
+msgid "Your pin"
+msgstr "Your pin"
+
+#: includes/settings.php:132
+#@ ditty-twitter-ticker
+msgid "Generate a pin from Twitter to grant access to Ditty Twitter Ticker"
+msgstr "Generate a pin from Twitter to grant access to Ditty Twitter Ticker"
+
+#: includes/settings.php:174
+#@ ditty-twitter-ticker
+msgid "<p><strong>There was an error connecting to Twitter.</strong><br/>Please reset the settings and try again in a couple minutes.</p>"
+msgstr "<p><strong>There was an error connecting to Twitter.</strong><br/>Please reset the settings and try again in a couple minutes.</p>"
+
+#: includes/settings.php:178
+#@ ditty-twitter-ticker
+msgid "Regenerate Link"
+msgstr "Regenerate Link"
+
+#: includes/settings.php:239
+#@ ditty-twitter-ticker
+msgid "Screen name:"
+msgstr "Screen name:"
+
+#: includes/settings.php:240
+#@ ditty-twitter-ticker
+msgid "User ID:"
+msgstr "User ID:"
+
+#: includes/settings.php:241
+#@ ditty-twitter-ticker
+msgid "Access token:"
+msgstr "Access token:"
+
+#: includes/settings.php:242
+#@ ditty-twitter-ticker
+msgid "Access token secret:"
+msgstr "Access token secret:"
+
+#: includes/settings.php:254
+#@ ditty-twitter-ticker
+msgid "<strong>There was an error accessing your account.</strong><br/>Please reset the settings and try again in a couple minutes."
+msgstr "<strong>There was an error accessing your account.</strong><br/>Please reset the settings and try again in a couple minutes."
+
+#: includes/notices.php:62
+#@ ditty-twitter-ticker
+msgid "Please include at least one Twitter <strong>handle</strong> or <strong>keyword</strong> to display Tweets!"
+msgstr "Please include at least one Twitter <strong>handle</strong> or <strong>keyword</strong> to display Tweets!"
+
+#: includes/notices.php:24
+#@ ditty-twitter-ticker
+msgid "You must authorize <strong>Ditty Twitter Ticker</strong> access through Twitter before you can display any feeds."
+msgstr "You must authorize <strong>Ditty Twitter Ticker</strong> access through Twitter before you can display any feeds."
+
+#: includes/settings.php:44
+#@ ditty-twitter-ticker
+msgid "Cache Time"
+msgstr "Cache Time"
+
+#: includes/settings.php:47
+#@ ditty-twitter-ticker
+msgid "Minutes"
+msgstr "Minutes"
+
+#: includes/settings.php:48
+#@ ditty-twitter-ticker
+msgid "Set the amount of time your feeds should stay cached."
+msgstr "Set the amount of time your feeds should stay cached."
+
