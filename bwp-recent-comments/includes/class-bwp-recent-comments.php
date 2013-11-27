@@ -116,7 +116,7 @@ class BWP_RC extends BWP_FRAMEWORK {
 	/**
 	 * Constructor
 	 */	
-	function __construct($version = '1.2.1')
+	function __construct($version = '1.2.2')
 	{
 		// Plugin's title
 		$this->plugin_title = 'BetterWP Recent Comments';
@@ -423,6 +423,8 @@ if (!empty($page))
 	else if ($page == BWP_RC_OPTION_TEMPLATE)
 	{
 		$bwp_option_page->set_current_tab(2);
+
+		//add_filter('bwp_ad_showable', function() { return false;});
 
 		// Option Structures - Form
 		$form = array(

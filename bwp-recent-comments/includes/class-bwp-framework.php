@@ -180,7 +180,8 @@ class BWP_FRAMEWORK {
 
 	function show_donation()
 	{
-		$showable = apply_filters('bwp_donation_showable', true);		
+		$showable = apply_filters('bwp_donation_showable', true);
+		$ad_showable = apply_filters('bwp_ad_showable', true);
 ?>
 <div id="bwp-info-place">
 <div id="bwp-donation" style="margin-bottom: 0px;">
@@ -224,17 +225,35 @@ class BWP_FRAMEWORK {
 		}
 ?>
 </div>
-<div id="bwp-seperator">
+<div class="bwp-separator">
 	<div style="height: 10px; width: 5px; background-color: #cccccc; margin: 0 auto;"><!-- --></div>
 </div>
 <div id="bwp-contact">
 	<a class="bwp-rss" href="http://feeds.feedburner.com/BetterWPnet"><?php _e('Latest updates from BetterWP.net!', $this->plugin_dkey); ?></a>
 	<a class="bwp-twitter" href="http://twitter.com/0dd0ne0ut"><?php _e('Follow me on Twitter!', $this->plugin_dkey); ?></a>
 </div>
+<?php
+		if (true == $ad_showable) 
+		{
+?>
+<div class="bwp-separator">
+	<div style="height: 10px; width: 5px; background-color: #cccccc; margin: 0 auto;"><!-- --></div>
+</div>
+<div id="bwp-ads">
+	<p><strong><?php _e('This Plugin is Proudly Sponsored By', $this->plugin_dkey); ?></strong></p>
+	<div style="width: 250px; margin: 0 auto;">
+		<a href="http://managewp.com/?utm_source=<?php echo $this->plugin_key; ?>&amp;utm_medium=Banner&amp;utm_content=mwp250_2&amp;utm_campaign=Plugins">
+			<img src="<?php echo plugin_dir_url($this->plugin_file) . 'includes/bwp-option-page/images/ad_250x250.png'; ?>" />
+		</a>
+	</div>
+</div>
+<?php
+		}
+?>
 </div>
 <?php
 	}
-	
+
 	function show_version()
 	{
 		if (empty($this->plugin_ver)) return '';

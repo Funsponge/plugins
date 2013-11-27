@@ -3,8 +3,8 @@ Contributors: OddOneOut
 Donate link: http://betterwp.net/wordpress-plugins/bwp-recent-comments/#contributions
 Tags: comments, recent comments, recent comments widgets, wordpress recent comments
 Requires at least: 2.8
-Tested up to: 3.6
-Stable tag: 1.2.1
+Tested up to: 3.7
+Stable tag: 1.2.2
 
 This plugin displays recent comment lists at assigned locations, with comprehensive support for widgets.
 
@@ -43,7 +43,7 @@ A recent comment list, in my opinion, can help stimulate discussion and explorat
 **Languages**
 
 * English (default)
-* French 1.1.0 (fr_FR) - Thanks to [Maître Mô](http://maitremo.fr)!
+* French 1.1.0 (fr_FR) - Thanks to [Maï¿½tre Mï¿½](http://maitremo.fr)!
 * Russian 1.1.0 (ru_RU) - Thanks to Konstantin (kg69design)!
 * Ukrainian 1.1.0 (ua_UA) - Thanks to Konstantin (kg69design)!
 * Portuguese 1.2.1 (pt_PT) - Thanks to Marcus (http://www.maniadecelular.com.br)!
@@ -76,6 +76,13 @@ Visit [Plugin's Official Page](http://betterwp.net/wordpress-plugins/bwp-recent-
 5. The configuration page
 
 == Changelog ==
+
+= 1.2.2 =
+* Marked as WordPress 3.7 compatible.
+* Updated BWP Framework to fix a possible bug that causes BWP setting pages to go blank.
+* **Good news**: ManageWP.com has become the official sponsor for BWP Recent Comments - [Read more](http://betterwp.net/319-better-wordpress-plugins-updates-2013/).
+
+**Note**: other bugs such as wrong number of comments displayed or RTL WordPress version display issues will be fixed in 1.2.3 (scheduled for November).
 
 = 1.2.1 =
 * **Fixes:**
