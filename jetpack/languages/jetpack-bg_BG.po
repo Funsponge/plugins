@@ -1,18 +1,18 @@
-# Translation of 2.7 in Slovak
+# Translation of 2.7 in Bulgarian
 # This file is distributed under the same license as the 2.7 package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2013-12-06 12:37:09+0000\n"
+"PO-Revision-Date: 2013-12-06 12:57:22+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: GlotPress/0.1\n"
 "Project-Id-Version: 2.7\n"
 
 #: modules/widgets/top-posts.php:87
 msgid "Image Grid"
-msgstr "Obrazová mriežka"
+msgstr ""
 
 #: modules/widgets/top-posts.php:91
 msgid "Top Posts &amp; Pages by views are calculated from 24-48 hours of stats. They take a while to change."
@@ -24,15 +24,15 @@ msgstr ""
 
 #: modules/widgets/twitter-timeline.php:24
 msgid "Twitter Timeline"
-msgstr "Twitter timeline"
+msgstr ""
 
 #: modules/widgets/twitter-timeline.php:27
 msgid "Display an official Twitter Embedded Timeline widget."
-msgstr "Zobrazí oficálny Twitter embedded timeline widget"
+msgstr ""
 
 #: modules/widgets/twitter-timeline.php:75
 msgid "My Tweets"
-msgstr "Moje tweety"
+msgstr ""
 
 #: modules/widgets/twitter-timeline.php:146
 msgid "Follow me on Twitter"
@@ -64,15 +64,15 @@ msgstr ""
 
 #: modules/widgets/twitter-timeline.php:197
 msgid "No Header"
-msgstr "Bez hlavičky"
+msgstr ""
 
 #: modules/widgets/twitter-timeline.php:198
 msgid "No Footer"
-msgstr "Bez pätičky"
+msgstr ""
 
 #: modules/widgets/twitter-timeline.php:199
 msgid "No Borders"
-msgstr "Bez okrajov"
+msgstr ""
 
 #: modules/widgets/twitter-timeline.php:200
 msgid "No Scrollbar"
@@ -88,11 +88,11 @@ msgstr ""
 
 #: modules/widgets/twitter-timeline.php:210
 msgid "Border Color (hex):"
-msgstr "Farba okrajov (hex):"
+msgstr ""
 
 #: modules/widgets/twitter-timeline.php:215
 msgid "Timeline Theme:"
-msgstr "Téma timeline:"
+msgstr ""
 
 #: modules/widgets/wordpress-post-widget.php:23
 msgid "Display WordPress Posts (Jetpack)"
@@ -113,11 +113,11 @@ msgstr ""
 
 #: modules/widgets/wordpress-post-widget.php:115
 msgid "Recent Posts"
-msgstr "Najnovšie články"
+msgstr "Скорошни публикации"
 
 #: modules/widgets/wordpress-post-widget.php:149
 msgid "Blog URL:"
-msgstr "Adresa blogu:"
+msgstr "URL на блога"
 
 #: modules/widgets/wordpress-post-widget.php:152
 msgid "Enter a WordPress.com or Jetpack WordPress site URL."
@@ -137,19 +137,19 @@ msgstr ""
 
 #: modules/widgets.php:50
 msgid "%s (Jetpack)"
-msgstr "%s (Jetpack)"
+msgstr ""
 
 msgid "http://wordpress.org/extend/plugins/jetpack/"
-msgstr "http://wordpress.org/extend/plugins/jetpack/"
+msgstr ""
 
 msgid "Bring the power of the WordPress.com cloud to your self-hosted WordPress. Jetpack enables you to connect your blog to a WordPress.com account to use the powerful features normally only available to WordPress.com users."
 msgstr ""
 
 msgid "Automattic"
-msgstr "Automattic"
+msgstr ""
 
 msgid "http://jetpack.me"
-msgstr "http://jetpack.me"
+msgstr ""
 
 msgid "Improve your spelling, style, and grammar with the <a href=\"http://www.afterthedeadline.com/\">After&nbsp;the&nbsp;Deadline</a> Proofreading service."
 msgstr ""
@@ -203,13 +203,13 @@ msgid "Monitor and manage your site's activity with Notifications in your Toolba
 msgstr ""
 
 msgid "A single search box, that lets you search many different things."
-msgstr ""
+msgstr "Поле за търсене на различни неща."
 
 msgid "Give your site a boost by loading images from the WordPress.com content delivery network."
-msgstr ""
+msgstr "Оптимизирайте сайта си като зареждате изображенията от системата на WordPress.com"
 
 msgid "Publish posts to your blog directly from your personal email account."
-msgstr ""
+msgstr "Публикувайте в блога си по имейл."
 
 msgid "Connect your site to popular social networks and automatically share new posts with your friends."
 msgstr ""
@@ -262,7 +262,7 @@ msgstr ""
 
 #: modules/widget-visibility/widget-conditions.php:161
 msgid "Category"
-msgstr "Kategória"
+msgstr "Категория"
 
 #: modules/widget-visibility/widget-conditions.php:162
 msgctxt "Noun, as in: \"The author of this post is...\""
@@ -296,7 +296,7 @@ msgstr ""
 
 #: modules/widget-visibility/widget-conditions.php:174
 msgid "Delete"
-msgstr "Zmazať"
+msgstr "Изтриване"
 
 #: modules/widgets/facebook-likebox.php:31
 msgid "Facebook Like Box"
@@ -316,15 +316,15 @@ msgstr ""
 
 #: modules/widgets/facebook-likebox.php:134
 msgid "The Like Box only works with <a href=\"http://www.facebook.com/help/?faq=174987089221178\">Facebook Pages</a>."
-msgstr "Like Box spolupracuje iba s <a href=\"http://www.facebook.com/help/?faq=174987089221178\">Facebook stránkami</a>"
+msgstr ""
 
 #: modules/widgets/facebook-likebox.php:140
 msgid "Width"
-msgstr "Šírka"
+msgstr "Широчина"
 
 #: modules/widgets/facebook-likebox.php:147
 msgid "Height"
-msgstr "Výška"
+msgstr "Височина"
 
 #: modules/widgets/facebook-likebox.php:165
 msgid "Show Faces"
@@ -363,7 +363,7 @@ msgstr ""
 #: modules/widgets/twitter-timeline.php:160
 #: modules/widgets/wordpress-post-widget.php:144
 msgid "Title:"
-msgstr "Nadpis:"
+msgstr "Заглавие:"
 
 #: modules/widgets/gallery/templates/form.php:10
 msgid "Images:"
@@ -391,7 +391,7 @@ msgstr ""
 
 #: modules/widgets/gallery.php:335
 msgid "Attachment Page"
-msgstr "Stránka s prílohou"
+msgstr "Страницата на файла в WordPress"
 
 #: modules/widgets/gallery.php:336
 msgid "Media File"
@@ -436,7 +436,7 @@ msgstr ""
 
 #: modules/widgets/gravatar-profile.php:184
 msgid "Custom"
-msgstr "Vlastné"
+msgstr "Собствено"
 
 #: modules/widgets/gravatar-profile.php:194
 msgid "Custom Email Address"
@@ -496,43 +496,43 @@ msgstr ""
 
 #: modules/widgets/image-widget.php:125
 msgid "Left"
-msgstr "Vľavo"
+msgstr "Ляво"
 
 #: modules/widgets/image-widget.php:126
 msgid "Center"
-msgstr "Center"
+msgstr "Център"
 
 #: modules/widgets/image-widget.php:127
 msgid "Right"
-msgstr "Vpravo"
+msgstr "Дясно"
 
 #: modules/widgets/image-widget.php:129
 msgid "Image Alignment:"
-msgstr "Zarovnanie obrázka:"
+msgstr "Позиция на изображението:"
 
 #: modules/widgets/image-widget.php:139
 msgid "Width:"
-msgstr "Šírka:"
+msgstr "Ширина:"
 
 #: modules/widgets/image-widget.php:142
 msgid "Height:"
-msgstr "Výška:"
+msgstr "Височина:"
 
 #: modules/widgets/image-widget.php:145
 msgid "If empty, we will attempt to determine the image size."
-msgstr ""
+msgstr "Ако оставите полето празно, ще се опитаме да познаем размера на изображенито."
 
 #: modules/widgets/image-widget.php:146
 msgid "Link URL (when the image is clicked):"
-msgstr ""
+msgstr "Връзка (когато някой натисне върху изображението)"
 
 #: modules/widgets/readmill.php:11 modules/widgets/readmill.php:21
 msgid "Send To Readmill"
-msgstr ""
+msgstr "Изпращане към Readmill"
 
 #: modules/widgets/readmill.php:13
 msgid "Readmill is the best book reader for phones and tablets. With this widget you can enable users to send a book to their device with one click."
-msgstr ""
+msgstr "Readmill е най-добрия четец за телефони и таблети. С тази джаджа позволявате на потребителите си да изпращат книги към устройството си с един клик. "
 
 #: modules/widgets/readmill.php:47
 msgid "Just enter the URL to your book, make sure it's a PDF or EPUB file, and you are ready to go. For more help, head to <a href='%s'>the Readmill WordPress Widget support page</a>."
@@ -552,11 +552,11 @@ msgstr ""
 
 #: modules/widgets/readmill.php:67 modules/widgets/rsslinks-widget.php:101
 msgid "Large"
-msgstr "Veľký"
+msgstr "Голям"
 
 #: modules/widgets/readmill.php:68 modules/widgets/rsslinks-widget.php:99
 msgid "Small"
-msgstr "Malý"
+msgstr ""
 
 #: modules/widgets/readmill.php:125
 msgid "Your ePub link is empty. Provide an ePub link to display the Send to Readmill widget."
@@ -573,7 +573,7 @@ msgstr ""
 #: modules/widgets/rsslinks-widget.php:67
 #: modules/widgets/rsslinks-widget.php:133
 msgid "Posts"
-msgstr "Články"
+msgstr "Публикации"
 
 #: modules/widgets/rsslinks-widget.php:69
 msgid "Posts & Comments"
@@ -605,7 +605,7 @@ msgstr ""
 
 #: modules/widgets/rsslinks-widget.php:100
 msgid "Medium"
-msgstr "Stredný"
+msgstr "Средно голяма"
 
 #: modules/widgets/rsslinks-widget.php:103
 msgid "Image Size:"
@@ -613,35 +613,35 @@ msgstr ""
 
 #: modules/widgets/rsslinks-widget.php:113
 msgid "Red"
-msgstr "Červená"
+msgstr "Червена"
 
 #: modules/widgets/rsslinks-widget.php:114
 msgid "Orange"
-msgstr "Oranžová"
+msgstr "Оранжева"
 
 #: modules/widgets/rsslinks-widget.php:115
 msgid "Green"
-msgstr "Zelená"
+msgstr "Зелена"
 
 #: modules/widgets/rsslinks-widget.php:116
 msgid "Blue"
-msgstr "Modrá"
+msgstr "Сини"
 
 #: modules/widgets/rsslinks-widget.php:117
 msgid "Purple"
-msgstr "Fialová"
+msgstr "Лилава"
 
 #: modules/widgets/rsslinks-widget.php:118
 msgid "Pink"
-msgstr "Ružová"
+msgstr "Розова"
 
 #: modules/widgets/rsslinks-widget.php:119
 msgid "Silver"
-msgstr "Strieborná"
+msgstr "Сребриста"
 
 #: modules/widgets/rsslinks-widget.php:121
 msgid "Image Color:"
-msgstr "Farba obrázka:"
+msgstr ""
 
 #: modules/widgets/rsslinks-widget.php:140
 msgid "Subscribe to %s"
@@ -649,7 +649,7 @@ msgstr ""
 
 #: modules/widgets/top-posts.php:35 modules/widgets/top-posts.php:41
 msgid "Top Posts &amp; Pages"
-msgstr "Najlepšie články a strany"
+msgstr ""
 
 #: modules/widgets/top-posts.php:37
 msgid "Shows your most viewed posts and pages."
@@ -661,15 +661,15 @@ msgstr ""
 
 #: modules/widgets/top-posts.php:83
 msgid "Display as:"
-msgstr "Zobraziť ako:"
+msgstr ""
 
 #: modules/widgets/top-posts.php:85
 msgid "Text List"
-msgstr "Textový zoznam"
+msgstr ""
 
 #: modules/widgets/top-posts.php:86
 msgid "Image List"
-msgstr "Obrazový zoznam"
+msgstr ""
 
 #: modules/subscriptions.php:183
 msgid "Comment follow email text"
@@ -739,7 +739,7 @@ msgstr ""
 
 #: modules/subscriptions.php:609
 msgid "The email you entered was invalid, please check and try again."
-msgstr "E-mail, ktorý ste zadali je nesprávny, skontrolujte ho a skúste znova."
+msgstr ""
 
 #: modules/subscriptions.php:612
 msgid "You have already subscribed to this site, please check your inbox."
@@ -754,7 +754,6 @@ msgid "Join %s other subscriber"
 msgid_plural "Join %s other subscribers"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: modules/subscriptions.php:708
 msgid "Subscribe to Blog via Email"
@@ -774,7 +773,7 @@ msgstr ""
 
 #: modules/subscriptions.php:734 modules/widgets/image-widget.php:107
 msgid "Widget title:"
-msgstr ""
+msgstr "Заглавие на джаджата:"
 
 #: modules/subscriptions.php:740
 msgid "Optional text to display to your readers:"
@@ -789,7 +788,6 @@ msgid "Show total number of subscribers? (%s subscriber)"
 msgid_plural "Show total number of subscribers? (%s subscribers)"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: modules/theme-tools/featured-content.php:382
 #: modules/theme-tools/featured-content.php:393
@@ -802,7 +800,7 @@ msgstr ""
 
 #: modules/theme-tools/featured-content.php:414
 msgid "Tag name"
-msgstr "Meno značky"
+msgstr "Име на етикет"
 
 #: modules/theme-tools/featured-content.php:420
 msgid "Hide tag from displaying in post meta and tag clouds."
@@ -814,7 +812,7 @@ msgstr ""
 
 #: modules/theme-tools/social-links.php:157
 msgid "&mdash; Select &mdash;"
-msgstr "&mdash; Vybrať &mdash;"
+msgstr "&mdash; Избор &mdash;"
 
 #: modules/tiled-gallery/tiled-gallery.php:318
 msgid "Tiled Mosaic"
@@ -846,7 +844,7 @@ msgstr ""
 
 #: modules/videopress/class.videopress-player.php:280
 msgid "Submit"
-msgstr "Zaslať"
+msgstr "Изпращане"
 
 #: modules/videopress/class.videopress-player.php:326
 msgid "You do not have sufficient <a rel=\"nofollow\" href=\"%s\">freedom levels</a> to view this video. Support free software and upgrade."
@@ -860,7 +858,7 @@ msgstr ""
 #: modules/videopress/class.videopress-player.php:478
 #: modules/videopress/class.videopress-player.php:500
 msgid "this video"
-msgstr "toto video"
+msgstr ""
 
 #: modules/videopress/class.videopress-player.php:507
 msgctxt "Play as in playback or view a movie"
@@ -873,7 +871,7 @@ msgstr ""
 
 #: modules/videopress/class.videopress-player.php:661
 msgid "Loading video..."
-msgstr "Nahrávam video..."
+msgstr ""
 
 #: modules/videopress/class.videopress-video.php:306
 msgid "The VideoPress plugin could not communicate with the VideoPress servers. This error is most likely caused by a misconfigured plugin. Please reinstall or upgrade."
@@ -998,15 +996,15 @@ msgstr ""
 
 #: modules/videopress/videopress.php:595
 msgid "Insert Video"
-msgstr "Vložiť video"
+msgstr "Вмъкване на видео"
 
 #: modules/videopress/videopress.php:628
 msgid "Ogg File URL"
-msgstr "Adresa súboru Ogg"
+msgstr ""
 
 #: modules/videopress/videopress.php:630
 msgid "Location of the Ogg video file."
-msgstr ""
+msgstr "Адрес на Ogg видео файла."
 
 #: modules/videopress/videopress.php:638
 msgid "Display share menu and allow viewers to embed or download this video"
@@ -1014,7 +1012,7 @@ msgstr ""
 
 #: modules/videopress/videopress.php:644
 msgid "Rating"
-msgstr "Hodnotenie"
+msgstr "Оценка"
 
 #: modules/videopress/videopress.php:657
 msgid "Shortcode"
@@ -1058,7 +1056,7 @@ msgstr ""
 
 #: modules/widget-visibility/widget-conditions.php:75
 msgid "Monthly archives"
-msgstr "Mesačný archív"
+msgstr "Месечен архив"
 
 #: modules/widget-visibility/widget-conditions.php:76
 msgid "Yearly archives"
@@ -1104,7 +1102,7 @@ msgstr ""
 
 #: modules/sharedaddy/sharing-sources.php:998
 msgid "Save"
-msgstr "Uložiť"
+msgstr "Запис"
 
 #: modules/sharedaddy/sharing-sources.php:999
 msgid "Remove Service"
@@ -1168,7 +1166,7 @@ msgstr ""
 
 #: modules/sharedaddy/sharing.php:177
 msgid "Available Services"
-msgstr "Dostupné služby"
+msgstr ""
 
 #: modules/sharedaddy/sharing.php:178
 msgid "Drag and drop the services you'd like to enable into the box below."
@@ -1176,7 +1174,7 @@ msgstr ""
 
 #: modules/sharedaddy/sharing.php:179
 msgid "Add a new service"
-msgstr "Pridať novú službu"
+msgstr ""
 
 #: modules/sharedaddy/sharing.php:192
 msgid "Please note that your services have been restricted because your site is private."
@@ -1184,7 +1182,7 @@ msgstr ""
 
 #: modules/sharedaddy/sharing.php:203
 msgid "Enabled Services"
-msgstr "Povolené služby"
+msgstr ""
 
 #: modules/sharedaddy/sharing.php:206
 msgid "Services dragged here will appear individually."
@@ -1200,7 +1198,7 @@ msgstr ""
 
 #: modules/sharedaddy/sharing.php:235
 msgid "Live Preview"
-msgstr "Živý náhľad"
+msgstr ""
 
 #: modules/sharedaddy/sharing.php:238
 msgid "Sharing is off. Add services above to enable."
@@ -1212,15 +1210,15 @@ msgstr ""
 
 #: modules/sharedaddy/sharing.php:307
 msgid "Icon + text"
-msgstr "Ikona + text"
+msgstr ""
 
 #: modules/sharedaddy/sharing.php:308
 msgid "Icon only"
-msgstr "Len ikona"
+msgstr ""
 
 #: modules/sharedaddy/sharing.php:309
 msgid "Text only"
-msgstr "Len text"
+msgstr ""
 
 #: modules/sharedaddy/sharing.php:310
 msgid "Official buttons"
@@ -1236,15 +1234,15 @@ msgstr ""
 
 #: modules/sharedaddy/sharing.php:324
 msgid "New window"
-msgstr "Nové okno"
+msgstr ""
 
 #: modules/sharedaddy/sharing.php:325
 msgid "Same window"
-msgstr "Rovnaké okno"
+msgstr ""
 
 #: modules/sharedaddy/sharing.php:363
 msgid "Service name"
-msgstr "Meno služby"
+msgstr ""
 
 #: modules/sharedaddy/sharing.php:369
 msgid "Sharing URL"
@@ -1272,7 +1270,7 @@ msgstr ""
 
 #: modules/shortcodes/archives.php:58
 msgid "Your blog does not currently have any published posts."
-msgstr ""
+msgstr "В момента вашият блог няма публикувани материали."
 
 #: modules/shortcodes/audio.php:202
 msgid "Download: <a href=\"%s\">%s</a><br />"
@@ -1300,7 +1298,7 @@ msgstr ""
 
 #: modules/shortcodes/twitter-timeline.php:17
 msgid "Invalid username"
-msgstr "Neplatné užívateľské meno"
+msgstr ""
 
 #: modules/shortcodes/twitter-timeline.php:20
 msgid "Invalid id"
@@ -1352,7 +1350,7 @@ msgstr ""
 
 #: modules/stats.php:266 modules/stats.php:703
 msgid "Site Stats"
-msgstr "Štatistiky stránky"
+msgstr ""
 
 #: modules/stats.php:354
 msgid "Loading&hellip;"
@@ -1380,7 +1378,7 @@ msgstr ""
 
 #: modules/stats.php:546
 msgid "Registered users"
-msgstr "Registrovaný užívatelia"
+msgstr ""
 
 #: modules/stats.php:548
 msgid "Count the page views of registered users who are logged in."
@@ -1412,55 +1410,55 @@ msgstr ""
 
 #: modules/stats.php:637
 msgid "Stats"
-msgstr "Štatistiky"
+msgstr "Статистика"
 
 #: modules/stats.php:639
 msgid "Views over 48 hours. Click for more Site Stats."
-msgstr "Prezretí za 48 hodín. Pre viac kliknite na Štatistiky stránky."
+msgstr ""
 
 #: modules/stats.php:724
 msgid "day"
-msgstr "deň"
+msgstr "ден"
 
 #: modules/stats.php:725
 msgid "week"
-msgstr "týždeň"
+msgstr "седмица"
 
 #: modules/stats.php:726
 msgid "month"
-msgstr "mesiac"
+msgstr "месец"
 
 #: modules/stats.php:729
 msgid "the past day"
-msgstr "minulý deň"
+msgstr "предишния ден"
 
 #: modules/stats.php:730
 msgid "the past week"
-msgstr "minulý týždeň"
+msgstr ""
 
 #: modules/stats.php:731
 msgid "the past month"
-msgstr "Minulý mesiac"
+msgstr "изминалия месец"
 
 #: modules/stats.php:732
 msgid "the past quarter"
-msgstr "minulý trištvrťrok"
+msgstr ""
 
 #: modules/stats.php:733
 msgid "the past year"
-msgstr "minulý rok"
+msgstr "изминалата година"
 
 #: modules/stats.php:755
 msgid "Chart stats by"
-msgstr "Tabuľkové štatistiky od"
+msgstr ""
 
 #: modules/stats.php:768
 msgid "Show top posts over"
-msgstr "Zobraziť najlepšie články navrchu."
+msgstr ""
 
 #: modules/stats.php:781
 msgid "Show top search terms over"
-msgstr "Zobraziť hore najčastejšie vyhľadávané spojenia"
+msgstr ""
 
 #: modules/stats.php:947
 msgid "%1$s %2$s Views"
@@ -1468,11 +1466,11 @@ msgstr ""
 
 #: modules/stats.php:968
 msgid "View All"
-msgstr "Ukázať všetko"
+msgstr "Всички"
 
 #: modules/stats.php:972
 msgid "Top Posts"
-msgstr "Najlepšie články"
+msgstr ""
 
 #: modules/stats.php:976 modules/stats.php:1000
 msgid "Sorry, nothing to report."
@@ -1480,7 +1478,7 @@ msgstr ""
 
 #: modules/stats.php:996
 msgid "Top Searches"
-msgstr "Najčastejšie vyhľadávané"
+msgstr ""
 
 #: modules/stats.php:1024
 msgid "We were unable to get your stats just now. Please reload this page to try again."
@@ -1512,31 +1510,31 @@ msgstr ""
 
 #: modules/omnisearch/omnisearch-posts.php:85
 msgid "%s ago"
-msgstr "%s dozadu"
+msgstr "преди %s"
 
 #: modules/omnisearch/omnisearch-posts.php:87
 msgid "Y/m/d"
-msgstr "j. F Y"
+msgstr "d.m.Y"
 
 #: modules/omnisearch/omnisearch-posts.php:93
 msgid "Published"
-msgstr "Publikované"
+msgstr "Публична"
 
 #: modules/omnisearch/omnisearch-posts.php:96
 msgid "Missed schedule"
-msgstr "Zmeškané naplánovanie"
+msgstr "Пропуснато планирано публикуване"
 
 #: modules/omnisearch/omnisearch-posts.php:98
 msgid "Scheduled"
-msgstr "Naplánované"
+msgstr "Планирана"
 
 #: modules/omnisearch/omnisearch-posts.php:100
 msgid "Last Modified"
-msgstr "Posledná zmena"
+msgstr "Последна промяна"
 
 #: modules/post-by-email.php:95 modules/subscriptions.php:635
 msgid "Email Address"
-msgstr "E-mailová adresa"
+msgstr "E-mail адрес"
 
 #: modules/post-by-email.php:110
 msgid "Enable Post By Email"
@@ -1545,7 +1543,7 @@ msgstr ""
 #: modules/post-by-email.php:114
 #: modules/videopress/class.videopress-player.php:283
 msgid "More information"
-msgstr "Viac informácií"
+msgstr ""
 
 #: modules/post-by-email.php:117
 msgid "Regenerate Address"
@@ -1706,7 +1704,7 @@ msgstr ""
 #: modules/publicize/ui.php:635 modules/publicize/ui.php:664
 #: modules/publicize/ui.php:666
 msgid "Hide"
-msgstr "Skryť"
+msgstr "Скриване"
 
 #: modules/publicize/ui.php:644
 msgid "Not Connected"
@@ -1722,7 +1720,7 @@ msgstr ""
 
 #: modules/publicize/ui.php:679
 msgid "Show"
-msgstr "Ukázať"
+msgstr "Показване"
 
 #: modules/publicize.php:90
 msgctxt "word count: words or characters?"
@@ -1735,7 +1733,7 @@ msgstr ""
 
 #: modules/sharedaddy/sharedaddy.php:114
 msgid "Disable CSS and JS"
-msgstr "Zablokovať CSS a JS"
+msgstr ""
 
 #: modules/sharedaddy/sharedaddy.php:116
 msgid "Advanced.  If this option is checked, you must include these files in your theme manually for the sharing links to work."
@@ -1743,17 +1741,17 @@ msgstr ""
 
 #: modules/sharedaddy/sharing-service.php:12
 msgid "Share this:"
-msgstr "Zdieľaj tento článok:"
+msgstr ""
 
 #: modules/sharedaddy/sharing-service.php:551
 #: modules/sharedaddy/sharing.php:250 modules/sharedaddy/sharing.php:283
 msgid "More"
-msgstr "Viac"
+msgstr "Още"
 
 #: modules/sharedaddy/sharing-service.php:553
 #: modules/videopress/videopress.php:635
 msgid "Share"
-msgstr "Zdieľať"
+msgstr ""
 
 #: modules/sharedaddy/sharing-sources.php:200
 msgctxt "as sharing source"
@@ -1771,7 +1769,7 @@ msgstr ""
 #: modules/sharedaddy/sharing-sources.php:244
 #: modules/videopress/videopress.php:676
 msgid "Close"
-msgstr "Zatvoriť"
+msgstr "Затваряне"
 
 #: modules/sharedaddy/sharing-sources.php:266
 msgctxt "share to"
@@ -1812,7 +1810,7 @@ msgstr ""
 
 #: modules/sharedaddy/sharing-sources.php:333
 msgid "Twitter"
-msgstr "Twitter"
+msgstr ""
 
 #: modules/sharedaddy/sharing-sources.php:379
 msgctxt "share to"
@@ -1883,11 +1881,11 @@ msgstr ""
 
 #: modules/sharedaddy/sharing-sources.php:734
 msgid "Share on Facebook"
-msgstr "Zdielať na Facebooku"
+msgstr ""
 
 #: modules/sharedaddy/sharing-sources.php:765
 msgid "Print"
-msgstr "Tlačiť"
+msgstr "Отпечатване"
 
 #: modules/sharedaddy/sharing-sources.php:769
 msgctxt "share to"
@@ -1900,7 +1898,7 @@ msgstr ""
 
 #: modules/sharedaddy/sharing-sources.php:785
 msgid "Press This"
-msgstr "Press This"
+msgstr "Натисни ме"
 
 #: modules/sharedaddy/sharing-sources.php:813
 msgctxt "share to"
@@ -1930,11 +1928,11 @@ msgstr ""
 
 #: modules/sharedaddy/sharing-sources.php:986
 msgid "URL"
-msgstr "URL"
+msgstr "Адрес"
 
 #: modules/sharedaddy/sharing-sources.php:991
 msgid "Icon"
-msgstr "Ikona"
+msgstr ""
 
 #: modules/module-info.php:392
 msgid "The RSS Links Widget "
@@ -2014,7 +2012,7 @@ msgstr ""
 
 #: modules/module-info.php:427
 msgid "Subscriptions"
-msgstr "Odoberanie"
+msgstr "Абонаменти"
 
 #: modules/module-info.php:429
 msgid "Easily allow any visitor to subscribe to all of your posts via email through a widget in your blog&#8217;s sidebar.  Every time you publish a post, WordPress.com will send a notification to all your subscribers."
@@ -2086,7 +2084,7 @@ msgstr ""
 
 #: modules/module-info.php:567 modules/module-info.php:570
 msgid "Custom CSS"
-msgstr "Vlastné CSS"
+msgstr ""
 
 #: modules/module-info.php:571
 msgid "The Custom CSS editor gives you the ability to add to or replace your theme's CSS, all while supplying syntax coloring, auto-indentation, and immediate feedback on the validity of the CSS you're writing."
@@ -2282,14 +2280,14 @@ msgstr ""
 
 #: modules/omnisearch/omnisearch-comments.php:17
 msgid "Search Comments"
-msgstr "Hľadať v komentároch"
+msgstr "Търсене в коментарите"
 
 #: modules/omnisearch/omnisearch-comments.php:18
 #: modules/omnisearch/omnisearch-comments.php:27
 #: modules/widgets/rsslinks-widget.php:68
 #: modules/widgets/rsslinks-widget.php:136
 msgid "Comments"
-msgstr "Komentáre"
+msgstr "Коментари"
 
 #: modules/omnisearch/omnisearch-core.php:85
 msgid "search everything"
@@ -2313,21 +2311,21 @@ msgstr ""
 
 #: modules/omnisearch/omnisearch-media.php:16
 msgid "Search Media"
-msgstr "Hľadať súbor"
+msgstr "Търсене"
 
 #: modules/omnisearch/omnisearch-media.php:17
 #: modules/omnisearch/omnisearch-media.php:28
 msgid "Media"
-msgstr "Multimédiá"
+msgstr "Файлове"
 
 #: modules/omnisearch/omnisearch-plugins.php:20
 msgid "Search Plugins"
-msgstr "Hľadať moduly"
+msgstr "Търсене на разширения"
 
 #: modules/omnisearch/omnisearch-plugins.php:21
 #: modules/omnisearch/omnisearch-plugins.php:26
 msgid "Plugins"
-msgstr "Moduly"
+msgstr "Разширения"
 
 #: modules/omnisearch/omnisearch-plugins.php:23
 msgid "Loading &hellip;"
@@ -2337,7 +2335,7 @@ msgstr ""
 #: modules/widgets/facebook-likebox.php:124
 #: modules/widgets/gravatar-profile.php:174
 msgid "Title"
-msgstr "Nadpis"
+msgstr "Заглавие"
 
 #: modules/omnisearch/omnisearch-posts.php:45
 msgid "Snippet"
@@ -2345,36 +2343,35 @@ msgstr ""
 
 #: modules/omnisearch/omnisearch-posts.php:75
 msgid "Unpublished"
-msgstr "Nepublikované"
+msgstr "Непубликувана"
 
 #: modules/omnisearch/omnisearch-posts.php:78
 msgid "Y/m/d g:i:s A"
-msgstr "j. F. Y, G:i"
+msgstr "d.m.Y G:i:s"
 
 #: modules/minileven/theme/pub/minileven/content-gallery.php:15
 #: modules/widgets/gallery.php:26
 msgid "Gallery"
-msgstr "Galéria"
+msgstr "Галерия"
 
 #: modules/minileven/theme/pub/minileven/content-gallery.php:21
 #: modules/minileven/theme/pub/minileven/content.php:41
 #: modules/minileven/theme/pub/minileven/inc/tweaks.php:30
 msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
-msgstr "Čítať ďalej <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
 
 #: modules/minileven/theme/pub/minileven/content-gallery.php:57
 msgid "This gallery contains <a %1$s>%2$s photo</a>."
 msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: modules/minileven/theme/pub/minileven/content-gallery.php:65
 #: modules/minileven/theme/pub/minileven/content.php:43
 #: modules/minileven/theme/pub/minileven/image.php:64
 #: modules/minileven/theme/pub/minileven/page.php:27
 msgid "Pages:"
-msgstr "Stránky:"
+msgstr "Страници:"
 
 #: modules/minileven/theme/pub/minileven/content-gallery.php:71
 #: modules/minileven/theme/pub/minileven/content.php:51
@@ -2390,7 +2387,7 @@ msgstr ""
 
 #: modules/minileven/theme/pub/minileven/content.php:19
 msgid "Featured"
-msgstr "Odporúčané"
+msgstr "На фокус"
 
 #: modules/minileven/theme/pub/minileven/content.php:28
 msgid "Posted by "
@@ -2398,7 +2395,7 @@ msgstr ""
 
 #: modules/minileven/theme/pub/minileven/content.php:30
 msgid "%s"
-msgstr "%s"
+msgstr ""
 
 #: modules/minileven/theme/pub/minileven/content.php:51
 #: modules/minileven/theme/pub/minileven/image.php:80
@@ -2413,11 +2410,11 @@ msgstr ""
 #: modules/minileven/theme/pub/minileven/content.php:60
 #: modules/minileven/theme/pub/minileven/image.php:88
 msgid "&laquo; Previous"
-msgstr "&laquo; Predošlá"
+msgstr "&laquo; Предишни"
 
 #: modules/minileven/theme/pub/minileven/content.php:61
 msgid "Next &raquo;"
-msgstr "Ďalej &raquo;"
+msgstr "Следваща страница &raquo;"
 
 #: modules/minileven/theme/pub/minileven/footer.php:27
 msgid "http://wordpress.org/"
@@ -2443,7 +2440,7 @@ msgstr ""
 #: modules/minileven/theme/pub/minileven/functions.php:102
 msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
 msgid "no-subset"
-msgstr ""
+msgstr "cyrillic"
 
 #: modules/minileven/theme/pub/minileven/functions.php:128
 msgid "Main Sidebar"
@@ -2451,7 +2448,7 @@ msgstr ""
 
 #: modules/minileven/theme/pub/minileven/header.php:26
 msgid "Menu"
-msgstr "Menu"
+msgstr "Меню"
 
 #: modules/minileven/theme/pub/minileven/header.php:29
 msgid "Skip to primary content"
@@ -2483,43 +2480,43 @@ msgstr ""
 
 #: modules/minileven/theme/pub/minileven/inc/template-tags.php:55
 msgid "%1$s on %2$s"
-msgstr "%1$s na %2$s"
+msgstr "%1$s по %2$s"
 
 #: modules/minileven/theme/pub/minileven/inc/template-tags.php:61
 msgid "%1$s at %2$s"
-msgstr "%1$s o %2$s"
+msgstr "%1$s в %2$s"
 
 #: modules/minileven/theme/pub/minileven/inc/template-tags.php:68
 msgid "Your comment is awaiting moderation."
-msgstr "Váš komentár čaká na schválenie."
+msgstr "Коментарът ви очаква одобрение"
 
 #: modules/minileven/theme/pub/minileven/inc/template-tags.php:76
 msgid "Reply"
-msgstr "Odpovedať"
+msgstr "Отговор"
 
 #: modules/minileven/theme/pub/minileven/inc/template-tags.php:90
 msgid "<span class=\"entry-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time datetime=\"%3$s\" pubdate>%4$s</time></a></span>"
-msgstr "<span class=\"entry-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time datetime=\"%3$s\" pubdate>%4$s</time></a></span>"
+msgstr ""
 
 #: modules/minileven/theme/pub/minileven/inc/tweaks.php:94
 msgid "Page %s"
-msgstr "Stránka %s"
+msgstr "Страница %s"
 
 #: modules/minileven/theme/pub/minileven/index.php:23
 msgid "Daily Archives: %s"
-msgstr "Denný archív: %s"
+msgstr "Дневни архиви: %s"
 
 #: modules/minileven/theme/pub/minileven/index.php:25
 msgid "Monthly Archives: %s"
-msgstr "Mesačné archívy: %s"
+msgstr "Архив по месеци: %s"
 
 #: modules/minileven/theme/pub/minileven/index.php:27
 msgid "Yearly Archives: %s"
-msgstr "Ročné Archívy: %s"
+msgstr "Годишни архиви: %s"
 
 #: modules/minileven/theme/pub/minileven/index.php:29
 msgid "Posted in %s"
-msgstr "Kategória: %s"
+msgstr "Публикувано в %s"
 
 #: modules/minileven/theme/pub/minileven/index.php:31
 msgid "Tagged with %s"
@@ -2527,19 +2524,19 @@ msgstr ""
 
 #: modules/minileven/theme/pub/minileven/index.php:33
 msgid "Posted by"
-msgstr "Publikoval(a)"
+msgstr ""
 
 #: modules/minileven/theme/pub/minileven/index.php:35
 msgid "Blog Archives"
-msgstr "Archívy blogu"
+msgstr "Архиви"
 
 #: modules/minileven/theme/pub/minileven/index.php:43
 msgid "Search Results for: %s"
-msgstr ""
+msgstr "Резултати от търсене за: %s"
 
 #: modules/minileven/theme/pub/minileven/index.php:57
 msgid "Nothing Found"
-msgstr "Nič sa nenašlo"
+msgstr "Нищо не намерих"
 
 #: modules/minileven/theme/pub/minileven/index.php:61
 msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
@@ -2550,7 +2547,7 @@ msgstr ""
 #: modules/minileven/theme/pub/minileven/searchform.php:11
 #: modules/omnisearch/omnisearch-core.php:156
 msgid "Search"
-msgstr "Hľadať"
+msgstr "Търсене"
 
 #: modules/minileven.php:51
 msgid "Excerpts"
@@ -2574,7 +2571,7 @@ msgstr ""
 
 #: modules/minileven.php:75 modules/stats.php:573
 msgid "Save configuration"
-msgstr "Uložiť konfiguráciu"
+msgstr ""
 
 #: modules/minileven.php:78
 msgid "Mobile Apps"
@@ -2590,7 +2587,7 @@ msgstr ""
 
 #: modules/module-info.php:22 modules/module-info.php:26
 msgid "VaultPress"
-msgstr "VaultPress"
+msgstr ""
 
 #: modules/module-info.php:28
 msgid "Your WordPress installation is currently being protected with the world&#8217;s best security, backup, and support."
@@ -2603,7 +2600,7 @@ msgstr ""
 
 #: modules/module-info.php:29
 msgid "VaultPress dashboard"
-msgstr "Nástenka VaultPress"
+msgstr ""
 
 #: modules/module-info.php:31
 msgid "With a monthly subscription, the VaultPress plugin will backup your site&#8217;s content, themes, and plugins in real-time, as well as perform regular security scans for common threats and attacks."
@@ -2679,7 +2676,7 @@ msgstr ""
 #: modules/module-info.php:182 modules/module-info.php:186
 #: modules/module-info.php:195 modules/module-info.php:199
 msgid "WordPress.com Stats"
-msgstr "Štatistika WordPress.com"
+msgstr ""
 
 #: modules/module-info.php:187 modules/module-info.php:200
 msgid "There are many plugins and services that provide statistics, but data can be overwhelming. WordPress.com Stats makes the most popular metrics easy to understand through a clear and attractive interface."
@@ -2692,7 +2689,7 @@ msgstr ""
 #: modules/module-info.php:215 modules/module-info.php:219
 #: modules/publicize/ui.php:95
 msgid "Publicize"
-msgstr ""
+msgstr "Разгласяване"
 
 #: modules/module-info.php:220
 msgid "Publicize allows you to connect your blog to popular social networking sites and automatically share new posts with your friends.\t You can make a connection for just yourself or for all users on your blog."
@@ -2823,7 +2820,7 @@ msgstr ""
 
 #: modules/custom-post-types/nova.php:334
 msgid "Order"
-msgstr "Zoradenie"
+msgstr "Подредба"
 
 #: modules/custom-post-types/nova.php:390
 #: modules/custom-post-types/nova.php:442
@@ -2852,7 +2849,7 @@ msgstr ""
 
 #: modules/custom-post-types/nova.php:741
 msgid "Description"
-msgstr "Popis"
+msgstr "Описание"
 
 #: modules/custom-post-types/nova.php:743
 msgid "Labels: <small>spicy, favorite, etc.</small>"
@@ -2985,7 +2982,7 @@ msgstr ""
 #: modules/publicize/ui.php:45 modules/sharedaddy/sharing.php:57
 #: modules/sharedaddy/sharing.php:163
 msgid "Sharing Settings"
-msgstr "Nastavenia zdielania"
+msgstr ""
 
 #: modules/gplus-authorship/admin/ui.php:54 modules/likes.php:428
 #: modules/module-info.php:315 modules/module-info.php:318
@@ -3091,7 +3088,7 @@ msgstr ""
 
 #: modules/infinite-scroll/infinity.php:526
 msgid "Older posts"
-msgstr "Staršie články"
+msgstr ""
 
 #: modules/infinite-scroll/infinity.php:527
 msgid "Scroll back to top"
@@ -3099,7 +3096,7 @@ msgstr ""
 
 #: modules/infinite-scroll/infinity.php:1044
 msgid "Theme: %1$s."
-msgstr "Téma: %1$s."
+msgstr ""
 
 #: modules/infinite-scroll.php:87
 msgid "Use Google Analytics with Infinite Scroll"
@@ -3115,12 +3112,12 @@ msgstr ""
 
 #: modules/likes.php:113
 msgid "Likes and Shares"
-msgstr "Páči sa a zdieľania"
+msgstr ""
 
 #: modules/likes.php:124 modules/likes.php:592 modules/module-info.php:759
 #: modules/module-info.php:763
 msgid "Likes"
-msgstr "Páči sa"
+msgstr ""
 
 #: modules/likes.php:184
 msgid "Show likes."
@@ -3160,11 +3157,11 @@ msgstr ""
 
 #: modules/likes.php:318 modules/sharedaddy/sharing.php:336
 msgid "Front Page, Archive Pages, and Search Results"
-msgstr "Predná Strana, Archív Stránok a Výsledky Hľadania"
+msgstr ""
 
 #: modules/likes.php:451 modules/sharedaddy/sharing.php:158
 msgid "Settings have been saved"
-msgstr "Nastavenia boli uložené"
+msgstr ""
 
 #: modules/likes.php:458 modules/sharedaddy/sharing.php:170
 msgid "Sharing Buttons"
@@ -3172,11 +3169,11 @@ msgstr ""
 
 #: modules/likes.php:467 modules/sharedaddy/sharing.php:352
 msgid "Save Changes"
-msgstr "Uložiť zmeny"
+msgstr "Запис на промените"
 
 #: modules/likes.php:627
 msgid "Like this:"
-msgstr "Páči sa mi:"
+msgstr ""
 
 #: modules/likes.php:628
 msgid "Like"
@@ -3184,7 +3181,7 @@ msgstr ""
 
 #: modules/likes.php:628 modules/widget-visibility/widget-conditions.php:168
 msgid "Loading..."
-msgstr "Nahrávam..."
+msgstr "Зареждане..."
 
 #: modules/likes.php:729
 msgid "<span>%d</span> bloggers like this:"
@@ -3200,7 +3197,7 @@ msgstr ""
 
 #: modules/minileven/minileven.php:261
 msgid "No"
-msgstr "Nie"
+msgstr "Не"
 
 #: modules/minileven/minileven.php:267 modules/minileven/minileven.php:318
 msgid "Include this CSS in the Mobile Theme"
@@ -3208,7 +3205,7 @@ msgstr ""
 
 #: modules/minileven/theme/pub/minileven/comments.php:15
 msgid "This post is password protected. Enter the password to view any comments."
-msgstr "Článok je chránený heslom. Prosím vložte heslo pre zobrazenie komentárov."
+msgstr ""
 
 #: modules/minileven/theme/pub/minileven/comments.php:45
 msgid "Comment navigation"
@@ -3228,7 +3225,7 @@ msgstr ""
 #: modules/minileven/theme/pub/minileven/content.php:18
 #: modules/minileven/theme/pub/minileven/content.php:22
 msgid "Permalink to %s"
-msgstr "Trvalý odkaz na %s"
+msgstr "Постоянна препратка до %s"
 
 #: modules/contact-form/grunion-form-view.php:194
 msgid "Add this form to my post"
@@ -3240,7 +3237,7 @@ msgstr ""
 
 #: modules/contact-form/grunion-form-view.php:199
 msgid "Enter your email address"
-msgstr "Zadaj tvoju emailovú adresu"
+msgstr ""
 
 #: modules/contact-form/grunion-form-view.php:202
 msgid "What should the subject line be?"
@@ -3261,11 +3258,11 @@ msgstr ""
 
 #: modules/custom-css/custom-css.php:576
 msgid "Preview: changes must be saved or they will be lost"
-msgstr "Náhľad: zmeny musia byť uložené, ináč sa stratia"
+msgstr "Преглед: промените трябва да се запазят или ще бъдат изгубени"
 
 #: modules/custom-css/custom-css.php:604
 msgid "Edit CSS"
-msgstr "Upraviť CSS"
+msgstr "Редактиране на CSS"
 
 #: modules/custom-css/custom-css.php:617
 msgid "CSS"
@@ -3277,11 +3274,11 @@ msgstr ""
 
 #: modules/custom-css/custom-css.php:658
 msgid "Stylesheet saved."
-msgstr "Štýlový dokument bol uložený."
+msgstr ""
 
 #: modules/custom-css/custom-css.php:662
 msgid "Publish"
-msgstr "Publikovať"
+msgstr "Публикуване"
 
 #: modules/custom-css/custom-css.php:668
 msgid "CSS Revisions"
@@ -3303,7 +3300,7 @@ msgstr ""
 
 #: modules/custom-css/custom-css.php:717
 msgid "Default"
-msgstr "Základný"
+msgstr "По подразбиране"
 
 #: modules/custom-css/custom-css.php:717
 msgid "%s px"
@@ -3317,7 +3314,7 @@ msgstr ""
 #: modules/minileven/theme/pub/minileven/page.php:31
 #: modules/publicize/ui.php:677
 msgid "Edit"
-msgstr "Upraviť"
+msgstr "Редактиране"
 
 #: modules/custom-css/custom-css.php:725
 msgid "Limit width to %1$s pixels for videos, full size images, and other shortcodes. (<a href=\"%2$s\">More info</a>.)"
@@ -3332,13 +3329,13 @@ msgstr ""
 #: modules/publicize/publicize-jetpack.php:473
 #: modules/publicize/publicize-jetpack.php:585 modules/publicize/ui.php:274
 msgid "OK"
-msgstr "OK"
+msgstr "Добре"
 
 #: modules/custom-css/custom-css.php:747 modules/custom-css/custom-css.php:829
 #: modules/custom-css/custom-css.php:858 modules/minileven/minileven.php:271
 #: modules/sharedaddy/sharing-sources.php:299
 msgid "Cancel"
-msgstr "Zrušiť"
+msgstr "Отказ"
 
 #: modules/custom-css/custom-css.php:811
 msgid "Preprocessor:"
@@ -3347,7 +3344,7 @@ msgstr ""
 #: modules/custom-css/custom-css.php:812 modules/custom-css/custom-css.php:817
 #: modules/videopress/videopress.php:273 modules/widgets/image-widget.php:124
 msgid "None"
-msgstr "Žiadne"
+msgstr "Няма"
 
 #: modules/custom-css/custom-css.php:841
 msgid "Mode:"
@@ -3373,7 +3370,7 @@ msgstr ""
 #: modules/custom-post-types/comics.php:235
 #: modules/videopress/videopress.php:662
 msgid "Preview"
-msgstr "Náhľad"
+msgstr "Преглед"
 
 #: modules/custom-css/custom-css.php:867
 msgid "Save &amp; Buy Upgrade"
@@ -3404,7 +3401,6 @@ msgid "Post converted."
 msgid_plural "%s posts converted"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: modules/custom-post-types/comics.php:173
 msgid "Drop images to upload"
@@ -3447,7 +3443,7 @@ msgstr ""
 #: modules/custom-post-types/comics.php:197
 #: modules/custom-post-types/testimonial.php:72 modules/publicize/ui.php:207
 msgid "Add New"
-msgstr "Pridať nový"
+msgstr "Нов потребител"
 
 #: modules/custom-post-types/comics.php:198
 msgid "Add New Comic"
@@ -3484,12 +3480,12 @@ msgstr ""
 #: modules/custom-post-types/comics.php:274
 #: modules/custom-post-types/testimonial.php:133
 msgid "Custom field updated."
-msgstr "Vlastné pole bolo aktualizované."
+msgstr "Потребителското поле е обновено."
 
 #: modules/custom-post-types/comics.php:275
 #: modules/custom-post-types/testimonial.php:134
 msgid "Custom field deleted."
-msgstr "Vlastné pole zmazané."
+msgstr "Потребителските полета са изтрити."
 
 #: modules/custom-post-types/comics.php:276
 msgid "Comic updated."
@@ -3518,7 +3514,7 @@ msgstr ""
 #: modules/custom-post-types/comics.php:284
 #: modules/custom-post-types/testimonial.php:143
 msgid "M j, Y @ G:i"
-msgstr "j. F Y, G:i"
+msgstr "d.m.Y G:i"
 
 #: modules/custom-post-types/comics.php:285
 msgid "Comic draft updated. <a target=\"_blank\" href=\"%s\">Preview comic</a>"
@@ -3636,7 +3632,7 @@ msgstr ""
 
 #: modules/custom-post-types/nova.php:145
 msgid "Add New Menu"
-msgstr "Pridať nové menu"
+msgstr "Ново меню"
 
 #: modules/custom-post-types/nova.php:146
 msgid "New Menu Name"
@@ -3653,7 +3649,7 @@ msgstr ""
 
 #: modules/custom-post-types/nova.php:166
 msgid "Menu Item"
-msgstr "Položka menu"
+msgstr "Елемент на меню"
 
 #: modules/custom-post-types/nova.php:169
 #: modules/custom-post-types/nova.php:170
@@ -3662,7 +3658,7 @@ msgstr ""
 
 #: modules/custom-post-types/nova.php:171
 msgid "Edit Menu Item"
-msgstr "Upraviť položku menu"
+msgstr "Редактиране на елемент от менюто"
 
 #: modules/custom-post-types/nova.php:172
 msgid "New Menu Item"
@@ -3695,11 +3691,11 @@ msgstr ""
 
 #: modules/comments/base.php:230
 msgid "Error: please fill the required fields (name, email)."
-msgstr "Chyba: Zadajte, prosím, požadované údaje (meno, e-mail)."
+msgstr "Грешка: моля попълнете задължителните полета (име, e-mail)."
 
 #: modules/comments/base.php:232
 msgid "Error: please enter a valid email address."
-msgstr "Chyba: Prosím, zadajte korektnú e-mailovú adresu."
+msgstr "Грешка: моля въведете e-mail адрес"
 
 #: modules/comments/comments.php:187
 msgid "You must <a href=\"%s\">log in</a> to post a comment."
@@ -3707,11 +3703,11 @@ msgstr ""
 
 #: modules/comments/comments.php:212
 msgid "Leave a Reply to %s"
-msgstr "Napísať odpoveď pre %s"
+msgstr "Вашият отговор на %s"
 
 #: modules/comments/comments.php:251
 msgid "Cancel reply"
-msgstr "Zrušiť odpoveď"
+msgstr "Отказ"
 
 #: modules/comments/comments.php:387
 msgid "Invalid security token."
@@ -3731,7 +3727,7 @@ msgstr ""
 
 #: modules/contact-form/admin.php:101
 msgid "Mark Spam"
-msgstr "Označiť ako spam"
+msgstr ""
 
 #: modules/contact-form/admin.php:140 modules/contact-form/admin.php:534
 msgid "You are not allowed to manage this item."
@@ -3754,29 +3750,29 @@ msgstr ""
 #: modules/contact-form/grunion-contact-form.php:762
 #: modules/contact-form/grunion-omnisearch.php:37
 msgid "Message"
-msgstr "Správa"
+msgstr "Съобщение"
 
 #: modules/contact-form/admin.php:198
 #: modules/contact-form/grunion-omnisearch.php:38
 #: modules/omnisearch/omnisearch-posts.php:46
 msgid "Date"
-msgstr "Dátum"
+msgstr "Дата"
 
 #: modules/contact-form/admin.php:268
 msgid "Restore this item from the Trash"
-msgstr "Obnoviť túto položku z koša"
+msgstr "Възстановяване от кошчето"
 
 #: modules/contact-form/admin.php:270
 msgid "Restore"
-msgstr "Obnoviť"
+msgstr "Възстановяване"
 
 #: modules/contact-form/admin.php:273 modules/contact-form/admin.php:372
 msgid "Delete this item permanently"
-msgstr "Zmazať túto položku natrvalo"
+msgstr "Изтриване за винаги"
 
 #: modules/contact-form/admin.php:275 modules/contact-form/admin.php:374
 msgid "Delete Permanently"
-msgstr "Zmazať natrvalo"
+msgstr "Изтриване завинаги"
 
 #: modules/contact-form/admin.php:306
 msgid "Mark this message as spam"
@@ -3786,7 +3782,7 @@ msgstr ""
 #: modules/contact-form/admin.php:612
 #: modules/omnisearch/omnisearch-posts.php:65
 msgid "Trash"
-msgstr "Kôš"
+msgstr "Кошче"
 
 #: modules/contact-form/admin.php:366
 msgid "Mark this message as NOT spam"
@@ -3800,45 +3796,44 @@ msgstr ""
 
 #: modules/contact-form/admin.php:568
 msgid "You are not allowed to move this item out of the Trash."
-msgstr "Nie je vám dovolené presunúť túto položku z koša."
+msgstr "Не е позволено преместването извън Кошчето."
 
 #: modules/contact-form/admin.php:571
 msgid "Error in restoring from Trash."
-msgstr "Chyba pri obnovovaní z koša."
+msgstr "Грешка при връщането от Кошчето."
 
 #: modules/contact-form/admin.php:575
 msgid "You are not allowed to move this item to the Trash."
-msgstr "Nemáte povolené presunúť túto položku do koša."
+msgstr "Нямате право да преместите това нещо в Кошчето."
 
 #: modules/contact-form/admin.php:578
 msgid "Error in moving to Trash."
-msgstr "Chyba pri presune do koša."
+msgstr "Грешка при местенето в Кошчето."
 
 #: modules/contact-form/admin.php:625
 msgid "Spam"
-msgstr "Spam"
+msgstr "Спам"
 
 #: modules/contact-form/grunion-contact-form.php:82
 #: modules/contact-form/grunion-contact-form.php:83
 #: modules/contact-form/grunion-form-view.php:136
 msgid "Feedback"
-msgstr "Spätné ohlasy"
+msgstr ""
 
 #: modules/contact-form/grunion-contact-form.php:84
 msgid "Search Feedback"
-msgstr "Vyhľadať spätné ohlasy"
+msgstr ""
 
 #: modules/contact-form/grunion-contact-form.php:85
 #: modules/contact-form/grunion-contact-form.php:86
 msgid "No feedback found"
-msgstr "Nenájdené žiadne spätné ohlasy"
+msgstr ""
 
 #: modules/contact-form/grunion-contact-form.php:103
 msgid "Spam <span class=\"count\">(%s)</span>"
 msgid_plural "Spam <span class=\"count\">(%s)</span>"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: modules/contact-form/grunion-contact-form.php:192
 msgid "An error occurred. Please try again later."
@@ -3847,7 +3842,7 @@ msgstr ""
 #: modules/contact-form/grunion-contact-form.php:200
 #: modules/contact-form/grunion-contact-form.php:853
 msgid "Message Sent"
-msgstr "Správa odoslaná"
+msgstr "Съобщението е изпратено"
 
 #: modules/contact-form/grunion-contact-form.php:358
 msgid "Export feedback as CSV"
@@ -3884,15 +3879,15 @@ msgstr ""
 
 #: modules/contact-form/grunion-contact-form.php:738
 msgid "Submit &#187;"
-msgstr "Odoslať &#187;"
+msgstr ""
 
 #: modules/contact-form/grunion-contact-form.php:758
 msgid "Subject"
-msgstr "Predmet"
+msgstr "Тема"
 
 #: modules/contact-form/grunion-contact-form.php:839
 msgid "Error!"
-msgstr "Chyba!"
+msgstr "Грешка!"
 
 #: modules/contact-form/grunion-contact-form.php:854
 msgid "go back"
@@ -3910,7 +3905,7 @@ msgstr ""
 
 #: modules/contact-form/grunion-contact-form.php:1210
 msgid "IP Address:"
-msgstr "IP Adresa:"
+msgstr "IP адрес:"
 
 #: modules/contact-form/grunion-contact-form.php:1218
 msgid "Contact Form URL:"
@@ -3922,7 +3917,7 @@ msgstr ""
 
 #: modules/contact-form/grunion-contact-form.php:1227
 msgid "Sent by an unverified visitor to your site."
-msgstr "Odoslané neovereným návštevníkom na tvojej stránke."
+msgstr ""
 
 #: modules/contact-form/grunion-contact-form.php:1466
 msgid "%s requires a valid email address"
@@ -3930,7 +3925,7 @@ msgstr ""
 
 #: modules/contact-form/grunion-contact-form.php:1472
 msgid "%s is required"
-msgstr "%s je povinné pole"
+msgstr ""
 
 #: modules/contact-form/grunion-contact-form.php:1519
 #: modules/contact-form/grunion-contact-form.php:1525
@@ -3940,12 +3935,12 @@ msgstr "%s je povinné pole"
 #: modules/contact-form/grunion-contact-form.php:1561
 #: modules/contact-form/grunion-contact-form.php:1571
 msgid "(required)"
-msgstr "(povinné)"
+msgstr "(задължително)"
 
 #: modules/contact-form/grunion-contact-form.php:1543
 #: modules/minileven/minileven.php:261
 msgid "Yes"
-msgstr "Áno"
+msgstr "Да"
 
 #: modules/contact-form/grunion-form-view.php:8
 msgctxt "Label for HTML form \"Name\" field in contact form builder"
@@ -4015,7 +4010,7 @@ msgstr ""
 #: modules/contact-form/grunion-form-view.php:21
 msgctxt "This HTML form field is marked as required by the user in contact form builder"
 msgid "(required)"
-msgstr "(povinné)"
+msgstr ""
 
 #: modules/contact-form/grunion-form-view.php:22
 msgid "Are you sure you want to exit the form editor without saving?  Any changes you have made will be lost."
@@ -4078,7 +4073,7 @@ msgstr ""
 #: modules/contact-form/grunion-form-view.php:148
 #: modules/sharedaddy/sharing-sources.php:981
 msgid "Label"
-msgstr "Označenie"
+msgstr "Текст"
 
 #: modules/contact-form/grunion-form-view.php:149
 msgid "New field"
@@ -4102,7 +4097,7 @@ msgstr ""
 
 #: modules/contact-form/grunion-form-view.php:158
 msgid "Text"
-msgstr "Text"
+msgstr "Текст"
 
 #: modules/contact-form/grunion-form-view.php:159
 msgid "Textarea"
@@ -4110,7 +4105,7 @@ msgstr ""
 
 #: modules/contact-form/grunion-form-view.php:166
 msgid "Options"
-msgstr "Možnosti"
+msgstr "Настройки"
 
 #: modules/contact-form/grunion-form-view.php:167
 msgid "First option"
@@ -4122,7 +4117,7 @@ msgstr ""
 
 #: modules/contact-form/grunion-form-view.php:177
 msgid "Required?"
-msgstr "Povinné?"
+msgstr ""
 
 #: modules/contact-form/grunion-form-view.php:182
 msgid "Save this field"
@@ -4150,11 +4145,11 @@ msgstr ""
 
 #: class.json-api-endpoints.php:1174
 msgid "This post is password protected."
-msgstr "Tento príspevok je chránený heslom."
+msgstr ""
 
 #: class.json-api-endpoints.php:2865
 msgid "Comment cache problem?"
-msgstr "Komentovať problém s cache?"
+msgstr ""
 
 #: functions.gallery.php:12
 msgid "Thumbnail Grid"
@@ -4162,11 +4157,11 @@ msgstr ""
 
 #: functions.gallery.php:40
 msgid "Type"
-msgstr "Typ"
+msgstr "Тип"
 
 #: functions.opengraph.php:81
 msgid "(no title)"
-msgstr "(bez názvu)"
+msgstr "(без заглавие)"
 
 #: functions.twitter-cards.php:80
 msgid "Photo post by %s."
@@ -4215,7 +4210,7 @@ msgstr ""
 
 #: modules/after-the-deadline/atd-l10n.php:15
 msgid "No suggestions"
-msgstr "Žiadne návrhy"
+msgstr "Няма предложения"
 
 #: modules/after-the-deadline/atd-l10n.php:17
 msgid "Explain..."
@@ -4227,11 +4222,11 @@ msgstr ""
 
 #: modules/after-the-deadline/atd-l10n.php:19
 msgid "Ignore always"
-msgstr "Vždy ignorovať"
+msgstr ""
 
 #: modules/after-the-deadline/atd-l10n.php:20
 msgid "Ignore all"
-msgstr "Ignorovať všetko"
+msgstr "Игнориране всички"
 
 #: modules/after-the-deadline/atd-l10n.php:22
 msgid "Edit Selection..."
@@ -4350,7 +4345,7 @@ msgstr ""
 
 #: modules/after-the-deadline/config-options.php:86
 msgid "Language"
-msgstr "Jazyk"
+msgstr "Език"
 
 #: modules/after-the-deadline/config-options.php:89
 msgctxt "%1$s = http://codex.wordpress.org/Installing_WordPress_in_Your_Language, %2$s = WPLANG"
@@ -4372,7 +4367,7 @@ msgstr ""
 #: modules/after-the-deadline/config-unignore.php:133
 #: modules/widget-visibility/widget-conditions.php:174
 msgid "Add"
-msgstr "Pridať"
+msgstr "Нов"
 
 #: modules/after-the-deadline/config-unignore.php:138
 msgid "Be sure to click \"Update Profile\" at the bottom of the screen to save your changes."
@@ -4380,11 +4375,11 @@ msgstr ""
 
 #: modules/carousel/jetpack-carousel.php:106
 msgid "Comment"
-msgstr "Komentár"
+msgstr "Коментар"
 
 #: modules/carousel/jetpack-carousel.php:107
 msgid "Post Comment"
-msgstr "Pridať komentár"
+msgstr "Коментиране"
 
 #: modules/carousel/jetpack-carousel.php:108
 msgid "Write a Comment..."
@@ -4448,7 +4443,7 @@ msgstr ""
 
 #: modules/carousel/jetpack-carousel.php:135
 msgid "%s (Required)"
-msgstr "%s (povinné)"
+msgstr ""
 
 #: modules/carousel/jetpack-carousel.php:137
 #: modules/contact-form/grunion-contact-form.php:753
@@ -4460,7 +4455,7 @@ msgstr "Email"
 #: modules/contact-form/grunion-contact-form.php:754
 #: modules/contact-form/grunion-form-view.php:160
 msgid "Website"
-msgstr "Adresa webu"
+msgstr "Интернет страница"
 
 #: modules/carousel/jetpack-carousel.php:274
 msgid "Missing attachment ID."
@@ -4528,11 +4523,11 @@ msgstr ""
 
 #: modules/carousel/jetpack-carousel.php:473
 msgid "Black"
-msgstr "Čierna"
+msgstr "Черна"
 
 #: modules/carousel/jetpack-carousel.php:473
 msgid "White"
-msgstr "Biela"
+msgstr "Бяла"
 
 #: modules/carousel/jetpack-carousel.php:481
 msgid "Display images in full-size carousel slideshow."
@@ -4541,17 +4536,17 @@ msgstr ""
 #: modules/comments/admin.php:50 modules/comments/comments.php:211
 #: modules/minileven/theme/pub/minileven/content-gallery.php:71
 msgid "Leave a Reply"
-msgstr "Pridaj komentár"
+msgstr "Вашият коментар"
 
 #: modules/comments/admin.php:54 modules/widgets/facebook-likebox.php:156
 #: modules/widgets/twitter-timeline.php:217
 msgid "Light"
-msgstr "Jasná"
+msgstr "Светла"
 
 #: modules/comments/admin.php:55 modules/widgets/facebook-likebox.php:157
 #: modules/widgets/twitter-timeline.php:218
 msgid "Dark"
-msgstr "Tmavá"
+msgstr "Тъмна"
 
 #: modules/comments/admin.php:56
 msgid "Transparent"
@@ -4575,7 +4570,7 @@ msgstr ""
 
 #: class.jetpack.php:1837
 msgid "Jetpack Module Options"
-msgstr "Nastavenia Jetpack modulu"
+msgstr ""
 
 #: class.jetpack.php:1838
 msgid "<strong>To Activate/Deactivate a Module</strong> - Click on Learn More. An Activate or Deactivate button will now appear next to the Learn More button. Click the Activate/Deactivate button."
@@ -4583,15 +4578,15 @@ msgstr ""
 
 #: class.jetpack.php:1839 class.jetpack.php:1886
 msgid "For more information:"
-msgstr "Pre viac informácií:"
+msgstr "За повече информация:"
 
 #: class.jetpack.php:1840 class.jetpack.php:1887
 msgid "Jetpack FAQ"
-msgstr "Často kladené otázky o JetPack"
+msgstr ""
 
 #: class.jetpack.php:1841 class.jetpack.php:1888
 msgid "Jetpack Support"
-msgstr "Podpora Jetpack"
+msgstr ""
 
 #: class.jetpack.php:1857
 msgid "Overview"
@@ -4603,19 +4598,19 @@ msgstr ""
 
 #: class.jetpack.php:1873
 msgid "You can activate or deactivate individual Jetpack modules to suit your needs."
-msgstr "Môžete aktivovať alebo deaktivovať jednotlivé moduly Jetpacku, aby vyhovoval vašim potrebám."
+msgstr ""
 
 #: class.jetpack.php:1875
 msgid "Find the component you want to manage"
-msgstr "Vyberte komponent, ktorý si prajete spravovať."
+msgstr ""
 
 #: class.jetpack.php:1876
 msgid "Click on Learn More"
-msgstr "Kliknite na Dozvedieť sa viac"
+msgstr ""
 
 #: class.jetpack.php:1877
 msgid "An Activate or Deactivate button will appear"
-msgstr "zobrazí sa tlačidlo Aktivovať alebo Deaktivovať"
+msgstr ""
 
 #: class.jetpack.php:1878
 msgid "If additional settings are available, a link to them will appear"
@@ -4624,7 +4619,7 @@ msgstr ""
 #: class.jetpack.php:1983 modules/publicize/ui.php:677
 #: modules/sharedaddy/sharedaddy.php:76 modules/sharedaddy/sharedaddy.php:83
 msgid "Settings"
-msgstr "Nastavenia"
+msgstr "Настройки"
 
 #: class.jetpack.php:2000
 msgid "Dismiss this notice and deactivate Jetpack."
@@ -4640,7 +4635,7 @@ msgstr ""
 
 #: class.jetpack.php:2014 class.jetpack.php:2831
 msgid "Connect to WordPress.com"
-msgstr "Pripojit na WordPress.com"
+msgstr ""
 
 #: class.jetpack.php:2016 modules/module-info.php:45 modules/module-info.php:81
 #: modules/module-info.php:138 modules/module-info.php:173
@@ -4659,7 +4654,7 @@ msgstr "Pripojit na WordPress.com"
 #: modules/module-info.php:860 modules/module-info.php:876
 #: modules/module-info.php:896
 msgid "Learn More"
-msgstr "Zistiť viac"
+msgstr ""
 
 #: class.jetpack.php:2029
 msgid "<strong>Jetpack is activated!</strong> Each site on your network must be connected individually by an admin on that site."
@@ -4675,7 +4670,7 @@ msgstr ""
 
 #: class.jetpack.php:2237
 msgid "Cheatin&#8217; uh?"
-msgstr "Podvádzame?"
+msgstr "Шмекеруваме, а?"
 
 #: class.jetpack.php:2240
 msgid "You need to authorize the Jetpack connection between your site and WordPress.com to enable the awesome features."
@@ -4743,7 +4738,7 @@ msgstr ""
 
 #: class.jetpack.php:2346
 msgid "Try connecting again."
-msgstr "Pokúsiť sa znovu pripojiť."
+msgstr ""
 
 #: class.jetpack.php:2370
 msgid "Welcome to <strong>Jetpack %s</strong>!"
@@ -4767,7 +4762,6 @@ msgid "<strong>%l Deactivated!</strong> You can activate it again at any time us
 msgid_plural "<strong>%l Deactivated!</strong> You can activate them again at any time using the activate buttons on their module cards."
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: class.jetpack.php:2441
 msgid "<strong>Module settings were saved.</strong> "
@@ -4794,14 +4788,12 @@ msgid "Jetpack contains the most recent version of the old %l plugin."
 msgid_plural "Jetpack contains the most recent versions of the old %l plugins."
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: class.jetpack.php:2496
 msgid "The old version has been deactivated and can be removed from your site."
 msgid_plural "The old versions have been deactivated and can be removed from your site."
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: class.jetpack.php:2561
 msgid "Is this site private?"
@@ -4813,7 +4805,6 @@ msgid "Like your site's RSS feeds, %l allows access to your posts and other cont
 msgid_plural "Like your site's RSS feeds, %l allow access to your posts and other content to third parties."
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: class.jetpack.php:2583
 msgctxt "%1$s = deactivation URL, %2$s = \"Deactivate {list of Jetpack module/feature names}"
@@ -4821,7 +4812,6 @@ msgid "If your site is not publicly accessible, consider <a href=\"%1$s\" title=
 msgid_plural "If your site is not publicly accessible, consider <a href=\"%1$s\" title=\"%2$s\">deactivating these features</a>."
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: class.jetpack.php:2600
 msgctxt "%l = list of Jetpack module/feature names"
@@ -4830,11 +4820,11 @@ msgstr ""
 
 #: class.jetpack.php:2785
 msgid "Connected to WordPress.com"
-msgstr "Prepojený s WordPress.com"
+msgstr ""
 
 #: class.jetpack.php:2785
 msgid "Disconnect from WordPress.com"
-msgstr "Odhlásiť sa z WordPress.com"
+msgstr ""
 
 #: class.jetpack.php:2790
 msgid "User linked to WordPress.com"
@@ -4897,7 +4887,7 @@ msgstr ""
 
 #: class.jetpack.php:2890 modules/subscriptions.php:710
 msgid "Subscribe"
-msgstr "Odoberať"
+msgstr "Абонирай се"
 
 #: class.jetpack.php:2897
 msgid "You have been subscribed to receive email updates."
@@ -4917,7 +4907,7 @@ msgstr ""
 
 #: class.jetpack.php:2915
 msgid "Terms of Service"
-msgstr "Podmienky poskytovania služby"
+msgstr "Условия за ползване"
 
 #: class.jetpack.php:2917
 msgid "Debug"
@@ -4925,7 +4915,7 @@ msgstr ""
 
 #: class.jetpack.php:2919 modules/sharedaddy/sharedaddy.php:84
 msgid "Support"
-msgstr "Podpora"
+msgstr "Поддръжка"
 
 #: class.jetpack.php:3049
 msgid "Configure %s"
@@ -4933,15 +4923,15 @@ msgstr ""
 
 #: class.jetpack.php:3108
 msgid "Deactivate"
-msgstr "Vypnúť"
+msgstr "Изключване"
 
 #: class.jetpack.php:3121
 msgid "Activate"
-msgstr "Aktivovať"
+msgstr "Включване"
 
 #: class.jetpack.php:3141
 msgid "Free"
-msgstr "Zadarmo"
+msgstr ""
 
 #: class.jetpack.php:3141
 msgid "Purchase"
@@ -4953,11 +4943,11 @@ msgstr ""
 
 #: class.jetpack.php:3152
 msgid "Updated"
-msgstr "Aktualizovaný"
+msgstr ""
 
 #: class.jetpack.php:3180
 msgid "Configure"
-msgstr "Nastaviť"
+msgstr "Настройки"
 
 #: class.jetpack.php:3218
 msgid "Coming soon&#8230;"
@@ -5017,79 +5007,79 @@ msgstr ""
 
 #: class.jetpack-cli.php:82
 msgid "Please specify a user."
-msgstr ""
+msgstr "Моля изберете потребител."
 
 #: class.jetpack-cli.php:90
 msgid "Jetpack has been successfully disconnected."
-msgstr ""
+msgstr "Jetpack беше отвързан успешно."
 
 #: class.jetpack-cli.php:79
 msgid "Please specify a valid user."
-msgstr ""
+msgstr "Отбележете валиден потребител"
 
 #: class.jetpack-cli.php:62 class.jetpack-cli.php:131
 msgid "%s is not a valid command."
-msgstr ""
+msgstr "%s не е валидна команда."
 
 #: class.jetpack-cli.php:25
 msgid "Jetpack is currently connected to WordPress.com"
-msgstr ""
+msgstr "В момента JetPack e свързан с WordPress.com"
 
 #: class.jetpack-cli.php:26
 msgid "The Jetpack Version is %s"
-msgstr ""
+msgstr "Версията на Jetpack е %s"
 
 #: class.jetpack-cli.php:27
 msgid "The WordPress.com blog_id is %d"
-msgstr ""
+msgstr "Блогът в WordPress.com е с blog_id %d"
 
 #: class.jetpack-cli.php:29
 msgid "Jetpack is not currently connected to WordPress.com"
-msgstr ""
+msgstr "В момента Jetpack не е свързан с WordPress.com"
 
 #: class.jetpack-cli.php:138
 msgid "%s is not a valid module."
-msgstr ""
+msgstr "%s не е валиден модул."
 
 #: class.jetpack-cli.php:144
 msgid "Please specify a valid module."
-msgstr ""
+msgstr "Моля изберете валиден модул."
 
 #: class.jetpack-cli.php:101
 msgid "Please specify if you would like to disconnect a blog or user."
-msgstr ""
+msgstr "Отбележете дали желаете да развържете блог или потребител."
 
 #: class.jetpack-cli.php:151
 msgid "Available Modules:"
-msgstr ""
+msgstr "Налични модули:"
 
 #: class.jetpack-cli.php:57
 msgid "You cannot disconnect, without having first connected."
-msgstr ""
+msgstr "Не можете да развържете без преди това да сте свързали."
 
 #: class.jetpack-cli.php:95
 msgid "%s has been successfully disconnected."
-msgstr ""
+msgstr "%s беше развързан успешно."
 
 #: class.jetpack-cli.php:97
 msgid "%s could not be disconnected.  Are you sure they're connected currently?"
-msgstr ""
+msgstr "%s не може да се изключи. Сигурни ли сте, че в момента има връзка?"
 
 #: class.jetpack-cli.php:155 modules/vaultpress.php:24
 msgid "Active"
-msgstr "Aktívny"
+msgstr "Активноr"
 
 #: class.jetpack-cli.php:155
 msgid "Inactive"
-msgstr "Vypnutý"
+msgstr "Неактивен"
 
 #: class.jetpack-cli.php:163
 msgid "%s has been activated."
-msgstr ""
+msgstr "%s беше активирана."
 
 #: class.jetpack-cli.php:169
 msgid "%s has been deactivated."
-msgstr ""
+msgstr "%s беше деактивирана."
 
 #: class.jetpack-client-server.php:141
 msgid "An administrator for this blog must set up the Jetpack connection."
@@ -5106,7 +5096,7 @@ msgstr ""
 
 #: class.jetpack-debugger.php:24
 msgid "You do not have sufficient permissions to access this page."
-msgstr "Nemáte dostatočné práva na prístup k tejto stránke."
+msgstr "Нямате право на достъп до тази страница."
 
 #: class.jetpack-debugger.php:68
 msgid "Your site isn’t reaching the Jetpack servers."
@@ -5205,7 +5195,7 @@ msgstr ""
 #: modules/contact-form/grunion-form-view.php:156
 #: modules/custom-post-types/nova.php:740
 msgid "Name"
-msgstr "Meno"
+msgstr "Име"
 
 #: class.jetpack-debugger.php:172
 msgid "Let us know your name."
@@ -5234,46 +5224,46 @@ msgstr ""
 #: class.jetpack.php:1057
 msgctxt "Module Tag"
 msgid "Photos and Videos"
-msgstr ""
+msgstr "Снимки и видео"
 
 #: class.jetpack.php:1058
 msgctxt "Module Tag"
 msgid "Social"
-msgstr ""
+msgstr "Социална"
 
 #: class.jetpack.php:1059
 msgctxt "Module Tag"
 msgid "WordPress.com Stats"
-msgstr ""
+msgstr "WordPress.com статистика"
 
 #: class.jetpack.php:1060
 msgctxt "Module Tag"
 msgid "Writing"
-msgstr ""
+msgstr "Писане"
 
 #: class.jetpack.php:1061
 msgctxt "Module Tag"
 msgid "Appearance"
-msgstr ""
+msgstr "Външен вид"
 
 #: class.jetpack.php:1062
 msgctxt "Module Tag"
 msgid "Developers"
-msgstr ""
+msgstr "Разработчици"
 
 #: class.jetpack.php:1063
 msgctxt "Module Tag"
 msgid "Mobile"
-msgstr ""
+msgstr "Мобилна"
 
 #: class.jetpack.php:1064
 msgctxt "Module Tag"
 msgid "Other"
-msgstr ""
+msgstr "Друга"
 
 #: class.jetpack.php:1375
 msgid "Jetpack requires WordPress version %s or later."
-msgstr "Jetpack vyzaduje WordPress verzie %s alebo novší."
+msgstr ""
 
 #: class.jetpack.php:1624 class.jetpack.php:1640
 msgid "Jetpack contains the most recent version of the old &#8220;%1$s&#8221; plugin."
@@ -5284,13 +5274,12 @@ msgid "One New Jetpack Module"
 msgid_plural "%s New Jetpack Modules"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: class.jetpack.php:1664
 msgid "Jetpack"
-msgstr "Jetpack"
+msgstr ""
 
 #: class.jetpack.php:1834 class.jetpack.php:1859 class.jetpack.php:1872
 #: class.jetpack.php:2795 class.jetpack.php:3048
 msgid "Jetpack by WordPress.com"
-msgstr "Jetpack od WordPress.com"
+msgstr ""
